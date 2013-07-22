@@ -1,20 +1,21 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/template.dwt" codeOutsideHTMLIsLocked="true" -->
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-
+<!--TemplateInfo codeOutsideHTMLIsLocked="true"-->
 <meta http-equiv="Cache-control" content="public">
 <meta http-equiv="window-target" content="_top">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="robots" content="index,follow">
-<!-- InstanceBeginEditable name="head" -->
-<meta name="Description" content="Advice from one teacher to another, first place winner in a contest from 2006" />
-<!-- InstanceEndEditable -->
-<!-- InstanceBeginEditable name="doctitle" -->
-<title>Best Advice @Web English Teacher</title>
-<!-- InstanceEndEditable -->
-<link href="CSS/WebEnglishTeacherCSS.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<meta name="description" content="Lesson plans for K-12 English Language Arts teachers">
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Web English Teacher</title>
+<!-- TemplateEndEditable -->
+<link href="../httpdocs/CSS/WebEnglishTeacherCSS.css" rel="stylesheet" type="text/css" />
+<link href="../httpdocs/CSS/responsive.css" rel="stylesheet" type="text/css" />
 <!-- links to icon and Facebook Thumbnail -->
-<link rel="SHORTCUT ICON" HREF="cgimages/favicon.ico">
+<link rel="SHORTCUT ICON" HREF="../httpdocs/cgimages/favicon.ico">
 <link rel="image_src" href="/graphics/fb-thumbnail.jpg />
 <img src="http://www.webenglishteacher.com/graphics/fb-thumbnail.jpg" alt="Web English Teacher" width="100" height="100" style="display/none"/>
 <!-- end links -->
@@ -29,8 +30,6 @@ ados.run.push(function() {
 ados_add_placement(1196, 15967, "azk97348", 4).setZone(4569);
 ados_load();
 });</script>
-
-
 <!-- end HotChalk/Adzerk code June 2012 -->
 
 <!-- Begin Google Analytics script -->
@@ -68,42 +67,42 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
 <!-- End Lightbox Code -->
 
 <center>
-<table width="1024" height="1150" border="0" cellpadding="0" cellspacing="0"><tr>
-<td valign="top">
+<div class="table-parent">
+
 <div id="container">
 <div id="adheader">
 <div class="headerads">
 <div id="azk97348"></div>
 </div>
 <div class="headerenotes">
-<a href="http://www.enotes.com/" target="_blank"><img src="cgimages/enotes3.gif" border="0" width="280" height="100" alt="eNotes" /></a>
+<a href="http://www.enotes.com/" target="_blank"><img src="../httpdocs/cgimages/enotes3.gif" border="0" width="280" height="100" alt="eNotes" /></a>
 </div>
 </div>
   <div id="header">
-    <a href="index.html"><img class="wetlogo" src="cgimages/WET_logo.gif" border="0" alt="Web English Teacher" width="300" height="95" /></a>
+    <a href="../httpdocs/index.html"><img class="wetlogo" src="../httpdocs/cgimages/WET_logo.gif" border="0" alt="Web English Teacher" width="300" height="95" /></a>
     <div class="headertwitter">
-	<a href="http://twitter.com/webenglishteach" target="_blank"><img src="cgimages/twitter3.gif" border="0" width="116" height="25" /></a></div>
+	<a href="http://twitter.com/webenglishteach" target="_blank"><img src="../httpdocs/cgimages/twitter3.gif" border="0" width="116" height="25" /></a></div>
     <div class="headerfacebook">
-    <a href="http://www.facebook.com/home.php?#/pages/Web-English-Teacher/201777963135" target="_blank"><img src="cgimages/facebook3.gif" border="0" width="116" height="25" /></a></div>
+    <a href="http://www.facebook.com/home.php?#/pages/Web-English-Teacher/201777963135" target="_blank"><img src="../httpdocs/cgimages/facebook3.gif" border="0" width="116" height="25" /></a></div>
 <div class="horizontal">
 <div class="nav-home">
 <ul>
-<li><a href="index.html"><img src="cgimages/spacer.gif" border="0" width="80" height="25"alt="Home" /></a></li>
+<li><a href="../httpdocs/index.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Home" /></a></li>
 </ul>
 </div>
 <div class="nav-blog">
 <ul>
-<li><a href="http://www.webenglishteacher.com/chalkdust/"><img src="cgimages/spacer.gif" border="0" width="80" height="25"alt="Blog" /></a></li>
+<li><a href="http://www.webenglishteacher.com/chalkdust/"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Blog" /></a></li>
 </ul>
 </div>
 <div class="nav-sitemap">
 <ul>
-<li><a href="http://www.webenglishteacher.com/generator/data/sitemap.html"><img src="cgimages/spacer.gif" border="0" width="80" height="25"alt="Site Map" /></a></li>
+<li><a href="http://www.webenglishteacher.com/generator/data/sitemap.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Site Map" /></a></li>
 </ul>
 </div>
 <div class="nav-contact">
 <ul>
-<li><a href="contact.html"><img src="cgimages/spacer.gif" border="0" width="80" height="25"alt="Contact Us" /></a></li>
+<li><a href="../httpdocs/contact.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Contact Us" /></a></li>
 </ul>
 </div>
 </div>
@@ -113,57 +112,48 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
 <div id="leftcontent">
 <div id="leftcontenttop">
 <div class="sidenewsletter-in">
-<a href="newsletter.html"><img src="cgimages/sign-up3.gif" width="724" border="0" height="55" style="float:right" alt="Click here to sign up" /></a></div>
+<a href="../httpdocs/newsletter.html"><img src="../httpdocs/cgimages/sign-up3.gif" width="724" border="0" height="55" style="float:right" alt="Click here to sign up" /></a></div>
 </div> 
 <div id="leftcontentbottom">
 <div class="sidenav3">
 <div class="sidenavtext">
 <ul> 
-<li><a href="index.html">Home</a></li>
-<li><a href="ap.html">AP & IB</a></li> 
-<li><a href="bookreports.html">Book Reports</a></li> 
-<li><a href="childlit.html">Children's Literature</a></li> 
-<li><a href="drama.html">Drama</a></li> 
-<li><a href="esl.html">ENL/ESL</a></li> 
-<li><a href="grammar.html">Grammar</a></li> 
-<li><a href="interdis.html">Interdisciplinary</a></li>
-<li><a href="journ.html">Journalism</a></li>
-<li><a href="fun.html">Just for Fun</a></li>
-<li><a href="litmain.html">Literature (Prose)</a></li>
-<li><a href="media.html">Media</a></li>
-<li><a href="myth.html">Mythology</a></li>
-<li><a href="poetry.html">Poetry</a></li>
-<li><a href="profres.html">Professional Resources</a></li>
-<li><a href="readingmain.html">Reading/Literacy</a></li>
-<li><a href="shakespeare.html">Shakespeare</a></li>
-<li><a href="speech.html">Speech</a></li>
-<li><a href="guides.html">Study Guides</a></li>
-<li><a href="tech.html">Technology Integration</a></li>
-<li><a href="vocab.html">Vocabulary</a></li>
-<li><a href="writing.html">Writing</a></li>
-<li><a href="ya.html">Young Adult Literature</a></li>
+<li><a href="../httpdocs/index.html">Home</a></li>
+<li><a href="../httpdocs/ap.html">AP & IB</a></li> 
+<li><a href="../httpdocs/bookreports.html">Book Reports</a></li> 
+<li><a href="../httpdocs/childlit.html">Children's Literature</a></li> 
+<li><a href="../httpdocs/drama.html">Drama</a></li> 
+<li><a href="../httpdocs/esl.html">ENL/ESL</a></li> 
+<li><a href="../httpdocs/grammar.html">Grammar</a></li> 
+<li><a href="../httpdocs/interdis.html">Interdisciplinary</a></li>
+<li><a href="../httpdocs/journ.html">Journalism</a></li>
+<li><a href="../httpdocs/fun.html">Just for Fun</a></li>
+<li><a href="../httpdocs/litmain.html">Literature (Prose)</a></li>
+<li><a href="../httpdocs/media.html">Media</a></li>
+<li><a href="../httpdocs/myth.html">Mythology</a></li>
+<li><a href="../httpdocs/poetry.html">Poetry</a></li>
+<li><a href="../httpdocs/profres.html">Professional Resources</a></li>
+<li><a href="../httpdocs/readingmain.html">Reading/Literacy</a></li>
+<li><a href="../httpdocs/shakespeare.html">Shakespeare</a></li>
+<li><a href="../httpdocs/speech.html">Speech</a></li>
+<li><a href="../httpdocs/guides.html">Study Guides</a></li>
+<li><a href="../httpdocs/tech.html">Technology Integration</a></li>
+<li><a href="../httpdocs/vocab.html">Vocabulary</a></li>
+<li><a href="../httpdocs/writing.html">Writing</a></li>
+<li><a href="../httpdocs/ya.html">Young Adult Literature</a></li>
 </ul> 
 </div>
 </div>
 <div class="mainContent3">
-<table width="549" border="0" cellpadding="0" cellspacing="0"><tr><td valign="top">
+
+
+<div class="table-child">
+
 <div class="mainContentText">
-<!-- InstanceBeginEditable name="Body" -->
-		<h1>The Best Advice I Ever Received as a Teacher</h1>
-	<h4>Contest entries, spring 2006</h4>
-	<p class="style3">Read the winning entries from Steve Feld, <a href="advice2.html">Colleen Kilian</a>, and <a href="advice3.html">Barbara Moran</a>.</p>
-	
-	<p><strong>Steve Feld</strong></p>
-	
-	<p>As an aspiring new Art teacher in New York City, I was required to take the interview portion of the teaching exam. I recall that one of the panelists  challenged me with the following question: &quot;If you were an Art Teacher in the classroom and only had a single crayon for supplies, what would you do&quot;?</p>
-
-<p>I recall saying something like having the class identify the color of the crayon and then proceed to teach a lesson about color.</p>
-
-<p>I passed the exam, but I am certain that when the panelist posed that prophetic question, he never realized that in many of the schools I served in subsequently, had little or no art supplies to support my teaching.</p>
-
-<p>The best advice I can give to new reachers is in order to be effective you must be resourceful, creative and make the best use of what you do have - your own ingenuity!</p>
-	
-	<!-- InstanceEndEditable -->
+<!-- TemplateBeginEditable name="Body" -->
+<h1>Title</h1>
+<p>text</p>
+<!-- TemplateEndEditable -->
 <hr />
 <div class="footer">
 <!-- Search Google -->
@@ -179,12 +169,12 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
 </script>
 
       <!-- Search Google -->
-| <a href="about.html">About Web English Teacher</a> | <a href="http://www.webenglishteacher.com/generator/data/sitemap.html">Site Map</a> | <a href="privacypolicy.html">Privacy Policy</a> | <a href="contact.html">Contact Us</a> | <br />&copy;2000-2013 Web English Teacher, all rights reserved.   
+| <a href="../httpdocs/about.html">About Web English Teacher</a> | <a href="http://www.webenglishteacher.com/generator/data/sitemap.html">Site Map</a> | <a href="../httpdocs/privacypolicy.html">Privacy Policy</a> | <a href="../httpdocs/contact.html">Contact Us</a> | <br />&copy;2000-2013 Web English Teacher, all rights reserved.   
 <p>Web English Teacher presents the best of K-12 English Language Arts teaching resources: lesson plans, videos, e-texts, technology integration, criticism, and classroom activities. Permission to link is granted to any educational site.</p>
-<p>This page updated <!-- InstanceBeginEditable name="Date" -->October 31, 2010<!-- InstanceEndEditable -->.</p>
+<p>This page updated <!-- TemplateBeginEditable name="Date" -->2013<!-- TemplateEndEditable -->.</p>
 </div>
 </div>
-</td></tr></table>
+</div> 
 </div>
 <!--end left-->
 </div>
@@ -199,7 +189,7 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
 <!-- ValueClick Media 300x250 Medium Rectangle CODE for Web English Teacher --> 
             
             
-<a href="http://edtechteacher.org/index.php/summer-workshops" target="_blank"><img src="graphics/edtechteacher-summer13.jpg" width="300" height="250" border="1" /></a>
+<a href="http://edtechteacher.org/index.php/summer-workshops" target="_blank"><img src="../httpdocs/Templates/graphics/edtechteacher-summer13.jpg" width="300" height="250" border="1" /></a>
 		  	</div> 
             
             <a class="twitter-timeline"  href="https://twitter.com/webenglishteach"  data-widget-id="333651548217425920">Tweets by @webenglishteach</a>
@@ -207,14 +197,16 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
 
                                  
             <div class="literacysite">
-            <a href="http://www.theliteracysite.com/clickToGive/lit/home" target="_blank"><img src="cgimages/literacysite.gif" width="266" border="0" height="124" align="Click to Give Free Books" /></a></div>
+            <a href="http://www.theliteracysite.com/clickToGive/lit/home" target="_blank"><img src="../httpdocs/cgimages/literacysite.gif" width="266" border="0" height="124" align="Click to Give Free Books" /></a></div>
    		 <!--end right-->
 	  </div>
 <!--end page-->
 </div>
 <!-- end #container -->
 </div>
-</td></tr></table>
+
+</div>
+
 </center>
 <!-- Begin comScore Tag -->
 <script>
@@ -231,4 +223,4 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
 </noscript>
 <!-- End comScore Tag -->
 </body>
-<!-- InstanceEnd --></html>
+</html>
