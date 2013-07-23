@@ -98,6 +98,31 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
 <li class="nav-item"><a href="#">Home</a></li>
 <li>|</li>
 </ul>
+<select class="mobile-selector">
+<option><a href="../httpdocs/index.html">Home</a></option>
+<option><a href="../httpdocs/ap.html">AP & IB</a></option> 
+<option><a href="../httpdocs/bookreports.html">Book Reports</a></option> 
+<option><a href="../httpdocs/childlit.html">Children's Literature</a></option> 
+<option><a href="../httpdocs/drama.html">Drama</a></option> 
+<option><a href="../httpdocs/esl.html">ENL/ESL</a></option> 
+<option><a href="../httpdocs/grammar.html">Grammar</a></option> 
+<option><a href="../httpdocs/interdis.html">Interdisciplinary</a></option>
+<option><a href="../httpdocs/journ.html">Journalism</a></option>
+<option><a href="../httpdocs/fun.html">Just for Fun</a></option>
+<option><a href="../httpdocs/litmain.html">Literature (Prose)</a></option>
+<option><a href="../httpdocs/media.html">Media</a></option>
+<option><a href="../httpdocs/myth.html">Mythology</a></option>
+<option><a href="../httpdocs/poetry.html">Poetry</a></option>
+<option><a href="../httpdocs/profres.html">Professional Resources</a></option>
+<option><a href="../httpdocs/readingmain.html">Reading/Literacy</a></option>
+<option><a href="../httpdocs/shakespeare.html">Shakespeare</a></option>
+<option><a href="../httpdocs/speech.html">Speech</a></option>
+<option><a href="../httpdocs/guides.html">Study Guides</a></option>
+<option><a href="../httpdocs/tech.html">Technology Integration</a></option>
+<option><a href="../httpdocs/vocab.html">Vocabulary</a></option>
+<option><a href="../httpdocs/writing.html">Writing</a></option>
+<option><a href="../httpdocs/ya.html">Young Adult Literature</a></option>
+</select>
 <div class="horizontal">
 <div class="nav-home">
 <a href="../httpdocs/index.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Home" /></a></div>
