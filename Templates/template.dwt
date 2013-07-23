@@ -87,6 +87,17 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
 	<a href="http://twitter.com/webenglishteach" target="_blank"><img src="../httpdocs/cgimages/twitter3.gif" border="0" width="116" height="25" /></a></div>
     <div class="headerfacebook">
     <a href="http://www.facebook.com/home.php?#/pages/Web-English-Teacher/201777963135" target="_blank"><img src="../httpdocs/cgimages/facebook3.gif" border="0" width="116" height="25" /></a></div>
+<ul class="mobile-nav">
+<li>|</li>
+<li class="nav-item"><a href="#">Home</a></li>
+<li>|</li>
+<li class="nav-item"><a href="#">Home</a></li>
+<li>|</li>
+<li class="nav-item"><a href="#">Home</a></li>
+<li>|</li>
+<li class="nav-item"><a href="#">Home</a></li>
+<li>|</li>
+</ul>
 <div class="horizontal">
 <div class="nav-home">
 <a href="../httpdocs/index.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Home" /></a></div>
@@ -97,6 +108,7 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
 </div>
 <div class="nav-contact">
 <a href="../httpdocs/contact.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Contact Us" /></a>
+
 </div>
 </div>
 <!-- end #header -->

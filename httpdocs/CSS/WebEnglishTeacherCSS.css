@@ -6,10 +6,10 @@ body {
     text-align: left;
     color: #000;
     height: 100%;
-    width: 1024px;
+    width: 100%;
     margin: 0 auto;
     display: block;
-    background: #fff url(../cgimages/wet-background.gif) repeat-y fixed center;
+    /*background: #fff url(../cgimages/wet-background.gif) repeat-y fixed center;*/
 }
 
 .webenglish #container {
@@ -21,10 +21,7 @@ body {
 }
 
 .webenglish #adheader {
-    width: 100%;
-    height: 110px;
-    padding: 0;
-    background: #9bc14e url(../cgimages/adheader_green.gif) repeat-x;
+    display: none;
 }
 
 .webenglish #adheader a {
@@ -33,6 +30,15 @@ body {
 
 .webenglish #adheader .headerenotes {
     float: left;
+}
+
+.wetlogo {
+    display: block;
+    margin: 0 auto;
+}
+
+div.header {
+    text-align: center;
 }
 
 div.headerads {
@@ -58,25 +64,26 @@ div.headerenotes {
 
 div.headertwitter {
     display: inline-block;
-    vertical-align: top;
-    width: 116px;
+    /*width: 116px;*/
+    width: 49%;
     height: 25px;
-    margin-top: 1em;
-    margin-left: 350px;
+    text-align: right;
 }
 
 div.headerfacebook {
     display: inline-block;
-    vertical-align: top;
-    width: 116px;
+    width: 49%;
     height: 25px;
-    margin-top: 1em;
+    text-align: left;
 }
 
 .webenglish #pagecontent {
     width: 100%;
     padding: 0;
     display: block;
+
+
+    display: none;
 }
 
 .webenglish #leftcontent {
@@ -412,105 +419,30 @@ h2, h4, h5, h6 {
 }
 
 div.horizontal {
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    width: 609px;
-    height: 33px;
+    display: none;
 }
 
-div.horizontal div {
-    float: left;
-}
-
-div.nav-home {
-    width: 129px;
-    height: 33px;
-    display: inline-block;
-}
-
-div.nav-blog {
-    display: inline-block;
-    width: 183px;
-    height: 33px;
-}
-
-div.nav-sitemap {
-    display: inline-block;
-    width: 156px;
-    height: 33px;
-}
-
-div.nav-contact {
-    display: inline-block;
-    width: 141px;
-    height: 33px;
-}
-
-div.nav-home a {
-    display: block;
-    width: 129px;
-    height: 33px;
-    background-image: url(../cgimages/nav-home.gif);
-}
-
-div.nav-blog a {
-    display: block;
-    width: 183px;
-    height: 33px;
-    background-image: url('../cgimages/nav-blog.gif');
-}
-
-div.nav-sitemap a {
-    display: block;
-    width: 156px;
-    height: 33px;
-    background-image: url('../cgimages/nav-sitemap.gif');
-}
-
-div.nav-contact a {
-    display: block;
-    width: 141px;
-    height: 33px;
-    background-image: url('../cgimages/nav-contact.gif');
-}
-
-div.nav-home a:link, div.nav-home a:visited, div.nav-blog a:link, div.nav-blog a:visited, div.nav-sitemap a:link, div.nav-sitemap a:visited, div.nav-contact a:link, div.nav-contact a:visited {
-    font-family: Arial, sans-serif;
-    font-size: 13px;
-    color: #5abb64;
+ul.mobile-nav {
+    background: blue;
+    list-style: none;
     text-align: center;
-    vertical-align: middle;
-    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+ul.mobile-nav li {
+    display: inline-block;
+    margin: 1em .375em;
+    color: white;
+    font-size: 1.25em;
 }
 
-div.nav-home a:hover, div.nav-home a:active {
-    background-image: url('../cgimages/nav-home-on.gif');
-    font-family: Arial, sans-serif;
-    font-size: 13px;
-    color: #cccccc;
+
+ul.mobile-nav li > a {
+    color: white;
+    font-size: .875em;
 }
 
-div.nav-blog a:hover, div.nav-blog a:active {
-    background-image: url('../cgimages/nav-blog-on.gif');
-    font-family: Arial, sans-serif;
-    font-size: 13px;
-    color: #cccccc;
-}
 
-div.nav-sitemap a:hover, div.rss a:active {
-    background-image: url('../cgimages/nav-sitemap-on.gif');
-    font-family: Arial, sans-serif;
-    font-size: 13px;
-    color: #cccccc;
-}
-
-div.nav-contact a:hover, div.nav-contact a:active {
-    background-image: url('../cgimages/nav-contact-on.gif');
-    font-family: Arial, sans-serif;
-    font-size: 13px;
-    color: #cccccc;
-}
 
 /* Tablet Layout */
 
