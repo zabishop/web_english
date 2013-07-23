@@ -72,8 +72,6 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
 
 <center>
 
-<div class="table-parent" width="1024">
-
 <div id="container">
 <div id="adheader">
 <div class="headerads">
@@ -150,7 +148,6 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
 </div>
 </div>
 <div class="mainContent3">
-<div class="table-child" width="549">
 
 <div class="mainContentText">
 <!-- TemplateBeginEditable name="Body" -->
@@ -176,8 +173,6 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
 <p>Web English Teacher presents the best of K-12 English Language Arts teaching resources: lesson plans, videos, e-texts, technology integration, criticism, and classroom activities. Permission to link is granted to any educational site.</p>
 <p>This page updated <!-- TemplateBeginEditable name="Date" -->2013<!-- TemplateEndEditable -->.</p>
 </div>
-</div>
-
 </div>
 
 </div>
@@ -210,7 +205,6 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
 <!-- end #container -->
 </div>
 
-</div>
 
 </center>
 <!-- Begin comScore Tag -->
