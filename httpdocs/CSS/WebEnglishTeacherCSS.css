@@ -328,6 +328,10 @@ div.literacysite {
     background: url(../cgimages/sidebar2_green.gif) repeat-y #86b242;
 }
 
+ol.h-feed {
+    width: 100%;
+}
+
 div.literacysite a {
     width: 100%;
 }
