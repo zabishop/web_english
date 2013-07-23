@@ -566,3 +566,11 @@ font-family: Arial;
 font-size: 13px;
 color:#cccccc;
 }
+
+.table-parent {
+	width: 1024px;
+}
+
+.table-child {
+	width: 549px;
+}
