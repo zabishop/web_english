@@ -89,24 +89,14 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
     <a href="http://www.facebook.com/home.php?#/pages/Web-English-Teacher/201777963135" target="_blank"><img src="../httpdocs/cgimages/facebook3.gif" border="0" width="116" height="25" /></a></div>
 <div class="horizontal">
 <div class="nav-home">
-<ul>
-<li><a href="../httpdocs/index.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Home" /></a></li>
-</ul>
-</div>
+<a href="../httpdocs/index.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Home" /></a></div>
 <div class="nav-blog">
-<ul>
-<li><a href="http://www.webenglishteacher.com/chalkdust/"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Blog" /></a></li>
-</ul>
-</div>
+<a href="http://www.webenglishteacher.com/chalkdust/"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Blog" /></a></div>
 <div class="nav-sitemap">
-<ul>
-<li><a href="http://www.webenglishteacher.com/generator/data/sitemap.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Site Map" /></a></li>
-</ul>
+<a href="http://www.webenglishteacher.com/generator/data/sitemap.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Site Map" /></a>
 </div>
 <div class="nav-contact">
-<ul>
-<li><a href="../httpdocs/contact.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Contact Us" /></a></li>
-</ul>
+<a href="../httpdocs/contact.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Contact Us" /></a>
 </div>
 </div>
 <!-- end #header -->
