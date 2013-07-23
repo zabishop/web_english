@@ -227,6 +227,29 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
             <a href="http://www.theliteracysite.com/clickToGive/lit/home" target="_blank"><img src="../httpdocs/cgimages/literacysite.gif" width="266" border="0" height="124" align="Click to Give Free Books" /></a></div>
    		 <!--end right-->
 	  </div>
+      
+      <div class="mobile-footer">
+      <hr>
+<!-- Search Google -->
+<!--
+<div id="cse" style="width: 100%;">Loading</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en', style : google.loader.themes.SHINY});
+  google.setOnLoadCallback(function() {
+    var customSearchControl = new google.search.CustomSearchControl('013281907437875976694:dx6wwyqiqgu');
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    customSearchControl.draw('cse');
+  }, true);
+</script>
+-->
+      <!-- Search Google -->
+| <a href="../httpdocs/about.html">About Web English Teacher</a> | <a href="http://www.webenglishteacher.com/generator/data/sitemap.html">Site Map</a> | <a href="../httpdocs/privacypolicy.html">Privacy Policy</a> | <a href="../httpdocs/contact.html">Contact Us</a> | <br />&copy;2000-2013 Web English Teacher, all rights reserved.   
+<p>Web English Teacher presents the best of K-12 English Language Arts teaching resources: lesson plans, videos, e-texts, technology integration, criticism, and classroom activities. Permission to link is granted to any educational site.</p>
+<p>This page updated <!-- TemplateBeginEditable name="Mobile-Date" -->2013<!-- TemplateEndEditable -->.</p>
+</div>
+      
+      
 <!--end page-->
 </div>
 <!-- end #container -->

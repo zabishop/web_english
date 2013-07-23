@@ -118,21 +118,23 @@ select.mobile-selector {
 .webenglish #leftcontentbottom {
     width: 100%;
     padding: 0;
-
-
-
     display: block;
 }
 
 .webenglish #rightcontent {
     float: right;
-    width: 300px;
+    /*width: 300px;*/
+    width: 100%;
     height: auto;
-    background: url(../cgimages/sidebar2_green.gif) repeat-y;
+    url(../cgimages/sidebar2_green.gif) repeat-y #86b242
     padding: 0;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 1em;
+}
 
-
-    display: none;
+.webenglish #rightcontent a {
+    width:100%;
 }
 
 div.sidenewsletter {
@@ -154,7 +156,6 @@ div.sidenewslettertext {
 }
 
 div.sidenewsletter-in {
-    /*width: 724px;*/
     height: auto;
     background: url(../cgimages/sidebar1_green.gif) repeat-x;
     padding: 0;
@@ -280,7 +281,7 @@ div.mainContentText a:hover {
 }
 
 div.rightbannerad {
-    width: 300px;
+    width: 100%;
     background: #999;
     padding: 0;
 }
@@ -288,6 +289,7 @@ div.rightbannerad {
 div.rightbannerad a, div.rightbannerad a img {
     border: none;
     width: 100%;
+    height: 100%;
 }
 
 div.enotes {
@@ -321,9 +323,19 @@ div.siteteacher {
 }
 
 div.literacysite {
-    margin: 10px;
-    width: 280px;
-    height: 131px;
+    /*width: 100%;*/
+    display: block;
+    background: url(../cgimages/sidebar2_green.gif) repeat-y #86b242;
+}
+
+div.literacysite a {
+    width: 100%;
+}
+
+div.literacysite a img {
+    width: 90%;
+    margin: 5%;
+    height: 90%;
 }
 
 div.sidebar2 {
@@ -337,11 +349,21 @@ div.sidebar2 {
 }
 
 div.footer {
-    width: 509px;
+    display: none;
+}
+
+div.mobile-footer hr {
+    margin-top: 1em;
+}
+
+div.mobile-footer {
+    width: 90%;
     padding: 0;
     font-family: Verdana, Geneva, sans-serif;
     font-size: 11px;
     color: #999;
+    display: block;
+    margin: 0 auto;
 }
 
 div.footer a, div.footer a:visited, div.footer a:hover {
@@ -597,9 +619,10 @@ ul.mobile-nav li > a {
         float: right;
         width: 300px;
         height: auto;
-        background: url(../cgimages/sidebar2_green.gif) repeat-y;
+        background: url(../cgimages/sidebar2_green.gif) repeat-y #86b242;
         padding: 0;
         display: block;
+
     }
 
     div.sidenewsletter {
@@ -805,6 +828,11 @@ ul.mobile-nav li > a {
         font-family: Verdana, Geneva, sans-serif;
         font-size: 11px;
         color: #999;
+        display: block;
+    }
+
+    div.mobile-footer {
+        display: none;
     }
 
     div.footer a, div.footer a:visited, div.footer a:hover {
