@@ -26,6 +26,524 @@ body {
     padding: 0;
     background: #9bc14e url(../cgimages/adheader_green.gif) repeat-x;
 }
+
+.webenglish #adheader a {
+    float: right;
+}
+
+.webenglish #adheader .headerenotes {
+    float: left;
+}
+
+div.headerads {
+    display: inline-block;
+    padding: 5px;
+    width: 728px;
+    height: 90px;
+}
+
+div.headerenotes {
+    display: inline-block;
+    width: 281px;
+    height: 100px;
+}
+
+.webenglish #header {
+    position: relative;
+    background: white;
+    width: 100%;
+    height: 103px;
+    padding: 0;
+}
+
+div.headertwitter {
+    display: inline-block;
+    vertical-align: top;
+    width: 116px;
+    height: 25px;
+    margin-top: 1em;
+    margin-left: 350px;
+}
+
+div.headerfacebook {
+    display: inline-block;
+    vertical-align: top;
+    width: 116px;
+    height: 25px;
+    margin-top: 1em;
+}
+
+.webenglish #pagecontent {
+    width: 100%;
+    padding: 0;
+    display: block;
+}
+
+.webenglish #leftcontent {
+    float: left;
+    width: 724px;
+    padding: 0;
+}
+
+.webenglish #leftcontenttop {
+    width: 724px;
+    padding: 0;
+    margin: 0;
+    float: left;
+}
+
+.webenglish #leftcontentbottom {
+    display: inline-block;
+    padding: 0;
+}
+
+.webenglish #rightcontent {
+    float: right;
+    width: 300px;
+    height: auto;
+    background: url(../cgimages/sidebar2_green.gif) repeat-y;
+    padding: 0;
+}
+
+div.sidenewsletter {
+    float: left;
+    width: 175px;
+    height: 125px;
+    background: url(../cgimages/sidebar1_green.gif) repeat-x;
+    padding: 0;
+}
+
+div.sidenewslettertext {
+    width: 155px;
+    height: 105px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 13px;
+    color: #FFF;
+    font-weight: bold;
+    text-align: center;
+}
+
+div.sidenewsletter-in {
+    width: 724px;
+    height: 55px;
+    background: url(../cgimages/sidebar1_green.gif) repeat-x;
+    padding: 0;
+}
+
+div.sidenewslettertext-in {
+    width: 704px;
+    height: 35px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 13px;
+    color: #FFF;
+    font-weight: bold;
+    text-align: center;
+}
+
+div.sidearticle {
+    float: left;
+    width: 549px;
+    height: 125px;
+    background: url(../cgimages/article-background2.jpg) no-repeat;
+    padding: 0;
+}
+
+div.sidearticletext {
+    width: 509px;
+    max-height: 100px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 13px;
+    color: #000;
+}
+
+div.sidearticletext a, div.sidearticletext a:visited {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 13px;
+    color: #FFF;
+}
+
+div.sidearticletext a:hover {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 13px;
+    color: #EEE;
+}
+
+div.sidenav3, div.sidenav {
+    float: left;
+    width: 175px;
+    height: 840px;
+    background: url(../cgimages/sidenav-paper.gif) no-repeat;
+    padding: 0;
+}
+
+div.sidenavtext {
+    width: 140px;
+    padding: 0;
+}
+
+div.sidenavtext ul, div.sidenavtext li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 11px;
+    color: #0f93ca;
+    line-height: 30px;
+}
+
+div.sidenavtext ul {
+    margin: 2em 2.5em;
+}
+
+div.sidenavtext a, div.sidenavtext a:visited {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 11px;
+    color: #0f93ca;
+    text-decoration: none;
+}
+
+div.sidenavtext a:hover {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 11px;
+    color: #999;
+    text-decoration: underline;
+}
+
+div.page404 {
+    background: url(../cgimages/main-background.gif) repeat-x;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 13px;
+    color: #000;
+}
+
+div.mainContent3, div.mainContent {
+    display: inline-block;
+    float: left;
+    width: 549px;
+    min-height: 400px;
+    background: url(../cgimages/main-background.gif) repeat-x;
+}
+
+div.mainContentText {
+    display: inline-block;
+    width: 509px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 13px;
+    padding: 2em;
+    color: #000;
+}
+
+div.mainContentText a, div.mainContentText a:visited {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 13px;
+    color: #0f93ca;
+}
+
+div.mainContentText a:hover {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 13px;
+    color: #999;
+    text-decoration: underline;
+}
+
+div.rightbannerad {
+    width: 300px;
+    background: #999;
+    padding: 0;
+}
+
+div.rightbannerad a, div.rightbannerad a img {
+    border: none;
+    width: 100%;
+}
+
+div.enotes {
+    margin: 10px;
+    width: 280px;
+    height: 131px;
+}
+
+div.ETT {
+    margin: 10px;
+    width: 280px;
+    height: 242px;
+}
+
+div.laborlaw {
+    margin: 10px;
+    width: 280px;
+    height: 131px;
+}
+
+div.summer {
+    margin: 10px;
+    width: 280px;
+    height: 200px;
+}
+
+div.siteteacher {
+    margin: 10px;
+    width: 280px;
+    height: 51px;
+}
+
+div.literacysite {
+    margin: 10px;
+    width: 280px;
+    height: 131px;
+}
+
+div.sidebar2 {
+    position: relative;
+    left: 0;
+    top: 0;
+    width: 300px;
+    padding: 0;
+}
+
+div.footer {
+    width: 509px;
+    padding: 0;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 11px;
+    color: #999;
+}
+
+div.footer a, div.footer a:visited, div.footer a:hover {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 11px;
+    color: #0f93ca;
+}
+
+h1, h3, h4 {
+    font-size: 25px;
+    font-family: Arial, sans-serif;
+    color: #7ca53c;
+    font-weight: normal;
+    border-bottom: 1px solid;
+    line-height: 28px;
+}
+
+a {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 11px;
+    color: #0f93ca;
+    text-decoration: none;
+}
+
+a:link {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 11px;
+    color: #0f93ca;
+    text-decoration: none;
+}
+
+a:visited {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 11px;
+    color: #0f93ca;
+    text-decoration: none;
+}
+
+a:hover {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 11px;
+    color: #0f93ca;
+    text-decoration: underline;
+}
+
+td {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+
+th {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+
+h2, h4, h5, h6 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.style2 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    text-align: center;
+    color: #000000;
+}
+
+.style3 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.style4 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 16pt;
+}
+
+.style5 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    font-variant: normal;
+    text-transform: none;
+    color: #F7EDA6;
+    text-decoration: none;
+}
+
+.style6 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    text-align: right
+}
+
+.level6 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    line-height: normal;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+div.horizontal {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 609px;
+    height: 33px;
+}
+
+div.horizontal div {
+    float: left;
+}
+
+div.nav-home {
+    width: 129px;
+    height: 33px;
+    display: inline-block;
+}
+
+div.nav-blog {
+    display: inline-block;
+    width: 183px;
+    height: 33px;
+}
+
+div.nav-sitemap {
+    display: inline-block;
+    width: 156px;
+    height: 33px;
+}
+
+div.nav-contact {
+    display: inline-block;
+    width: 141px;
+    height: 33px;
+}
+
+div.nav-home a {
+    display: block;
+    width: 129px;
+    height: 33px;
+    background-image: url(../cgimages/nav-home.gif);
+}
+
+div.nav-blog a {
+    display: block;
+    width: 183px;
+    height: 33px;
+    background-image: url('../cgimages/nav-blog.gif');
+}
+
+div.nav-sitemap a {
+    display: block;
+    width: 156px;
+    height: 33px;
+    background-image: url('../cgimages/nav-sitemap.gif');
+}
+
+div.nav-contact a {
+    display: block;
+    width: 141px;
+    height: 33px;
+    background-image: url('../cgimages/nav-contact.gif');
+}
+
+div.nav-home a:link, div.nav-home a:visited, div.nav-blog a:link, div.nav-blog a:visited, div.nav-sitemap a:link, div.nav-sitemap a:visited, div.nav-contact a:link, div.nav-contact a:visited {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: #5abb64;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+}
+
+div.nav-home a:hover, div.nav-home a:active {
+    background-image: url('../cgimages/nav-home-on.gif');
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: #cccccc;
+}
+
+div.nav-blog a:hover, div.nav-blog a:active {
+    background-image: url('../cgimages/nav-blog-on.gif');
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: #cccccc;
+}
+
+div.nav-sitemap a:hover, div.rss a:active {
+    background-image: url('../cgimages/nav-sitemap-on.gif');
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: #cccccc;
+}
+
+div.nav-contact a:hover, div.nav-contact a:active {
+    background-image: url('../cgimages/nav-contact-on.gif');
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: #cccccc;
+}
+
+/* Tablet Layout */
+
+@media only screen and (min-width: 481px) {
+
+    /*
+   body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    padding: 0;
+    text-align: left;
+    color: #000;
+    height: 100%;
+    width: 1024px;
+    margin: 0 auto;
+    display: block;
+    background: #fff url(../cgimages/wet-background.gif) repeat-y fixed center;
+}
+
+.webenglish #container {
+    position: relative;
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+    text-align: left;
+}
+
+.webenglish #adheader {
+    width: 100%;
+    height: 110px;
+    padding: 0;
+    background: #9bc14e url(../cgimages/adheader_green.gif) repeat-x;
+}
 .webenglish #adheader a {
     float: right;
 }
@@ -70,14 +588,6 @@ div.headerfacebook {
     height: 25px;
     margin-top: 1em;
 }
-
-/*div.headershare {
-    position: absolute;
-    top: 15px;
-    left: 804px;
-    width: 175px;
-    text-align: right;
-}*/
 
 .webenglish #pagecontent {
     width: 100%;
@@ -218,8 +728,6 @@ div.sidenavtext a:hover {
     text-decoration: underline;
 }
 
-/*NOTE: Class names CANNOT start with a number.
-        Changed ".404page" to ".page404" */
 div.page404 {
     background: url(../cgimages/main-background.gif) repeat-x;
     font-family: Verdana, Geneva, sans-serif;
@@ -326,7 +834,6 @@ div.footer a, div.footer a:visited, div.footer a:hover {
     color: #0f93ca;
 }
 
-/* FONTS */
 h1, h3, h4 {
     font-size: 25px;
     font-family: Arial, sans-serif;
@@ -423,7 +930,6 @@ h2, h4, h5, h6 {
     color: #FFFFFF;
 }
 
-/* TOP NAVIGATION */
 div.horizontal {
     position: absolute;
     bottom: 0;
@@ -458,16 +964,6 @@ div.nav-contact {
     display: inline-block;
     width: 141px;
     height: 33px;
-}
-
-div.nav-home ul, div.nav-blog ul, div.nav-sitemap ul, div.nav-contact ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-div.nav-home li, div.nav-blog li, div.nav-sitemap li, div.nav-contact li {
-    float: left;
 }
 
 div.nav-home a {
@@ -534,625 +1030,7 @@ div.nav-contact a:hover, div.nav-contact a:active {
     font-size: 13px;
     color: #cccccc;
 }
-
-/* Tablet Layout */
-
-@media only screen and (min-width: 481px) {
-
-    /*
-    body {
-        font-family: Verdana, Arial, Helvetica, sans-serif;
-        font-size: 13px;
-        background: #fff;
-        margin: 0;
-        padding: 0;
-        text-align: left;
-        color: #000;
-        height: 100%;
-        background: url(../cgimages/wet-background.gif) repeat-y fixed center;
-    }
-
-    .webenglish #container {
-        position: relative;
-        left: 0;
-        top: 0;
-        width: 1024px;
-        margin: 0 auto;
-        border-left: 1px solid #000;
-        border-right: 1px solid #000;
-        border-bottom: 1px solid #000;
-        text-align: left;
-    }
-
-    .webenglish #adheader {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 1024px;
-        height: 110px;
-        padding: 0;
-        background: #9bc14e url(../cgimages/adheader_green.gif) repeat-x;
-    }
-
-    div.headerads {
-        position: absolute;
-        top: 5px;
-        left: 5px;
-        width: 728px;
-        height: 90px;
-    }
-
-    div.headerenotes {
-        position: absolute;
-        top: 0;
-        left: 738px;
-        width: 281px;
-        height: 100px;
-    }
-
-    .webenglish #header {
-        position: absolute;
-        top: 110px;
-        left: 0;
-        width: 1024px;
-        height: 103px;
-        padding: 0;
-    }
-
-    div.headertwitter {
-        position: absolute;
-        top: 10px;
-        left: 652px;
-        width: 116px;
-        height: 25px;
-    }
-
-    div.headerfacebook {
-        position: absolute;
-        top: 10px;
-        left: 768px;
-        width: 116px;
-        height: 25px;
-    }
-
-    div.headershare {
-        position: absolute;
-        top: 15px;
-        left: 804px;
-        width: 175px;
-        text-align: right;
-    }
-
-    .webenglish #pagecontent {
-        position: absolute;
-        top: 210px;
-        left: 0;
-        width: 1024px;
-        padding: 0;
-    }
-
-    .webenglish #leftcontent {
-        float: left;
-        width: 724px;
-        padding: 0;
-    }
-
-    .webenglish #leftcontenttop {
-        position: absolute;
-        left: 0;
-        top: 0;
-        width: 724px;
-        padding: 0;
-    }
-
-    .webenglish #leftcontentbottom {
-        position: absolute;
-        left: 0;
-        top: 0;
-        width: 724px;
-        padding: 0;
-    }
-
-    .webenglish #rightcontent {
-        float: right;
-        width: 300px;
-        height: 970px;
-        background: url(../cgimages/sidebar2_green.gif) repeat-y;
-        padding: 0;
-    }
-
-    .wetlogo {
-        border: none;
-        position: relative;
-        top: 0;
-        left: 0;
-    }
-
-    div.sidenewsletter {
-        position: absolute;
-        left: 0;
-        top: 0;
-        width: 175px;
-        height: 125px;
-        background: url(../cgimages/sidebar1_green.gif) repeat-x;
-        padding: 0;
-    }
-
-    div.sidenewslettertext {
-        position: relative;
-        left: 10px;
-        top: 10px;
-        width: 155px;
-        height: 105px;
-        font-family: Verdana, Geneva, sans-serif;
-        font-size: 13px;
-        color: #FFF;
-        font-weight: bold;
-        text-align: center;
-    }
-
-    div.sidenewsletter-in {
-        position: absolute;
-        left: 0;
-        top: 0;
-        width: 724px;
-        height: 55px;
-        background: url(../cgimages/sidebar1_green.gif) repeat-x;
-        padding: 0;
-    }
-
-    div.sidenewslettertext-in {
-        position: relative;
-        left: 10px;
-        top: 10px;
-        width: 704px;
-        height: 35px;
-        font-family: Verdana, Geneva, sans-serif;
-        font-size: 13px;
-        color: #FFF;
-        font-weight: bold;
-        text-align: center;
-    }
-
-    div.sidearticle {
-        position: absolute;
-        left: 175px;
-        top: 0;
-        width: 549px;
-        height: 125px;
-        background: url(../cgimages/article-background2.jpg) no-repeat;
-        padding: 0;
-    }
-
-    div.sidearticletext {
-        position: relative;
-        left: 20px;
-        top: 10px;
-        width: 509px;
-        max-height: 100px;
-        font-family: Verdana, Geneva, sans-serif;
-        font-size: 13px;
-        color: #000;
-    }
-
-    div.sidearticletext a, div.sidearticletext a:visited {
-        font-family: Verdana, Geneva, sans-serif;
-        font-size: 13px;
-        color: #FFF;
-    }
-
-    div.sidearticletext a:hover {
-        font-family: Verdana, Geneva, sans-serif;
-        font-size: 13px;
-        color: #EEE;
-    }
-
-    div.sidenav {
-        position: absolute;
-        left: 0;
-        top: 125px;
-        width: 175px;
-        height: 840px;
-        background: url(../cgimages/sidenav-paper.gif)  no-repeat;
-        padding: 0;
-    }
-
-    div.sidenav3 {
-        position: absolute;
-        left: 0;
-        top: 55px;
-        width: 175px;
-        height: 840px;
-        background: url(../cgimages/sidenav-paper.gif) no-repeat;
-        padding: 0;
-    }
-
-    div.sidenavtext {
-        position: absolute;
-        left: 25px;
-        top: 30px;
-        width: 140px;
-        padding: 0;
-    }
-
-    div.sidenavtext ul, div.sidenavtext li {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        font-family: Verdana, Geneva, sans-serif;
-        font-size: 11px;
-        color: #0f93ca;
-        line-height: 30px;
-    }
-
-    div.sidenavtext a, div.sidenavtext a:visited {
-        font-family: Verdana, Geneva, sans-serif;
-        font-size: 11px;
-        color: #0f93ca;
-        text-decoration: none;
-    }
-
-    div.sidenavtext a:hover {
-        font-family: Verdana, Geneva, sans-serif;
-        font-size: 11px;
-        color: #999;
-        text-decoration: underline;
-    }
-
-    div.mainContent {
-        position: absolute;
-        left: 175px;
-        top: 125px;
-        width: 549px;
-        min-height: 400px;
-        background: url(../cgimages/main-background.gif) repeat-x;
-    }
-    */
-    /*NOTE: Class names CANNOT start with a number.  */
-
-
-    /*
-    div.page404 {
-        background: url(../cgimages/main-background.gif) repeat-x;
-        font-family: Verdana, Geneva, sans-serif;
-        font-size: 13px;
-        color: #000;
-    }
-
-    div.mainContent3 {
-        position: absolute;
-        left: 175px;
-        top: 55px;
-        width: 549px;
-        min-height: 400px;
-        background: url(../cgimages/main-background.gif) repeat-x;
-    }
-
-    div.mainContentText {
-        position: absolute;
-        left: 20px;
-        top: 10px;
-        width: 509px;
-        font-family: Verdana, Geneva, sans-serif;
-        font-size: 13px;
-        color: #000;
-    }
-
-    div.mainContentText a, div.mainContentText a:visited {
-        font-family: Verdana, Geneva, sans-serif;
-        font-size: 13px;
-        color: #0f93ca;
-    }
-
-    div.mainContentText a:hover {
-        font-family: Verdana, Geneva, sans-serif;
-        font-size: 13px;
-        color: #999;
-        text-decoration: underline;
-    }
-
-    div.rightbannerad {
-        position: relative;
-        left: 0;
-        top: 0;
-        width: 300px;
-        background: #999;
-        padding: 0;
-    }
-
-    div.enotes {
-        position: relative;
-        left: 10px;
-        top: 10px;
-        width: 280px;
-        height: 131px;
-    }
-
-    div.ETT {
-        position: relative;
-        left: 10px;
-        top: 10px;
-        width: 280px;
-        height: 242px;
-    }
-
-    div.laborlaw {
-        position: relative;
-        left: 10px;
-        top: 10px;
-        width: 280px;
-        height: 131px;
-    }
-
-    div.summer {
-        position: relative;
-        left: 10px;
-        top: 20px;
-        width: 280px;
-        height: 200px;
-    }
-
-    div.siteteacher {
-        position: relative;
-        left: 10px;
-        top: 30px;
-        width: 280px;
-        height: 51px;
-    }
-
-    div.literacysite {
-        position: relative;
-        left: 10px;
-        top: 40px;
-        width: 280px;
-        height: 131px;
-    }
-
-    div.sidebar2 {
-        position: relative;
-        left: 0;
-        top: 0;
-        width: 300px;
-        padding: 0;
-    }
-
-    div.footer {
-        width: 509px;
-        padding: 0;
-        font-family: Verdana, Geneva, sans-serif;
-        font-size: 11px;
-        color: #999;
-    }
-
-    div.footer a, div.footer a:visited, div.footer a:hover {
-        font-family: Verdana, Geneva, sans-serif;
-        font-size: 11px;
-        color: #0f93ca;
-    }
-    */
-    /* FONTS */
-    /*
-    h1, h3, h4 {
-        font-size: 25px;
-        font-family: Arial, sans-serif;
-        color: #7ca53c;
-        font-weight: normal;
-        border-bottom: 1px solid;
-        line-height: 28px;
-    }
-
-    a {
-        font-family: Verdana, Geneva, sans-serif;
-        font-size: 11px;
-        color: #0f93ca;
-        text-decoration: none;
-    }
-
-    a:link {
-        font-family: Verdana, Geneva, sans-serif;
-        font-size: 11px;
-        color: #0f93ca;
-        text-decoration: none;
-    }
-
-    a:visited {
-        font-family: Verdana, Geneva, sans-serif;
-        font-size: 11px;
-        color: #0f93ca;
-        text-decoration: none;
-    }
-
-    a:hover {
-        font-family: Verdana, Geneva, sans-serif;
-        font-size: 11px;
-        color: #0f93ca;
-        text-decoration: underline;
-    }
-
-    td {
-        font-family: Verdana, Arial, Helvetica, sans-serif;
-        font-size: 11px;
-    }
-
-    th {
-        font-family: Verdana, Arial, Helvetica, sans-serif;
-        font-size: 11px;
-    }
-
-    h2, h4, h5, h6 {
-        font-family: Verdana, Arial, Helvetica, sans-serif;
-        font-size: 15px;
-        text-align: center;
-    }
-
-    .style2 {
-        font-family: Verdana, Arial, Helvetica, sans-serif;
-        font-size: 11px;
-        text-align: center;
-        color: #000000;
-    }
-
-    .style3 {
-        font-family: Verdana, Arial, Helvetica, sans-serif;
-        font-size: 13px;
-    }
-
-    .style4 {
-        font-family: Verdana, Arial, Helvetica, sans-serif;
-        font-size: 13px;
-        line-height: 16pt;
-    }
-
-    .style5 {
-        font-family: Verdana, Arial, Helvetica, sans-serif;
-        font-size: 15px;
-        font-weight: bolder;
-        font-variant: normal;
-        text-transform: none;
-        color: #F7EDA6;
-        text-decoration: none;
-    }
-
-    .style6 {
-        font-family: Verdana, Arial, Helvetica, sans-serif;
-        font-size: 11px;
-        text-align: right
-    }
-
-    .level6 {
-        font-family: Verdana, Arial, Helvetica, sans-serif;
-        font-size: 11px;
-        font-style: normal;
-        line-height: normal;
-        font-weight: bold;
-        color: #FFFFFF;
-    }
-    */
-    /* TOP NAVIGATION */
-    /*
-    div.horizontal {
-        position: absolute;
-        top: 67px;
-        left: 415px;
-        width: 609px;
-        height: 33px;
-    }
-
-    div.nav-home {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 129px;
-        height: 33px;
-    }
-
-    div.nav-blog {
-        position: absolute;
-        top: 0;
-        left: 129px;
-        width: 183px;
-        height: 33px;
-    }
-
-    div.nav-sitemap {
-        position: absolute;
-        top: 0;
-        left: 312px;
-        width: 156px;
-        height: 33px;
-    }
-
-    div.nav-contact {
-        position: absolute;
-        top: 0;
-        left: 468px;
-        width: 141px;
-        height: 33px;
-    }
-
-    div.nav-home ul, div.nav-blog ul, div.nav-sitemap ul, div.nav-contact ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-    }
-
-    div.nav-home li, div.nav-blog li, div.nav-sitemap li, div.nav-contact li {
-        float: left;
-    }
-
-    div.nav-home a {
-        display: block;
-        width: 129px;
-        height: 33px;
-        background-image: url(../cgimages/nav-home.gif);
-    }
-
-    div.nav-blog a {
-        display: block;
-        width: 183px;
-        height: 33px;
-        background-image: url('../cgimages/nav-blog.gif');
-    }
-
-    div.nav-sitemap a {
-        display: block;
-        width: 156px;
-        height: 33px;
-        background-image: url('../cgimages/nav-sitemap.gif');
-    }
-
-    div.nav-contact a {
-        display: block;
-        width: 141px;
-        height: 33px;
-        background-image: url('../cgimages/nav-contact.gif');
-    }
-
-    div.nav-home a:link, div.nav-home a:visited, div.nav-blog a:link, div.nav-blog a:visited, div.nav-sitemap a:link, div.nav-sitemap a:visited, div.nav-contact a:link, div.nav-contact a:visited {
-        font-family: Arial, sans-serif;
-        font-size: 13px;
-        color: #5abb64;
-        text-align: center;
-        vertical-align: middle;
-        text-decoration: none;
-    }
-
-    div.nav-home a:hover, div.nav-home a:active {
-        background-image: url('../cgimages/nav-home-on.gif');
-        font-family: Arial, sans-serif;
-        font-size: 13px;
-        color: #cccccc;
-    }
-
-    div.nav-blog a:hover, div.nav-blog a:active {
-        background-image: url('../cgimages/nav-blog-on.gif');
-        font-family: Arial, sans-serif;
-        font-size: 13px;
-        color: #cccccc;
-    }
-
-    div.nav-sitemap a:hover, div.rss a:active {
-        background-image: url('../cgimages/nav-sitemap-on.gif');
-        font-family: Arial, sans-serif;
-        font-size: 13px;
-        color: #cccccc;
-    }
-
-    div.nav-contact a:hover, div.nav-contact a:active {
-        background-image: url('../cgimages/nav-contact-on.gif');
-        font-family: Arial, sans-serif;
-        font-size: 13px;
-        color: #cccccc;
-    }
-
-    .table-parent {
-        width: 1024px;
-    }
-
-    .table-child {
-        width: 549px;
-    }*/
-
+*/
 }
 
 /* Desktop Layout: 769px to a max of 1232px.  Inherits styles from: Mobile Layout and Tablet Layout. */
