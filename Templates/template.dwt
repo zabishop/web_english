@@ -12,6 +12,7 @@
 <!-- TemplateBeginEditable name="doctitle" -->
 <title>Web English Teacher</title>
 <!-- TemplateEndEditable -->
+<link href="../httpdocs/CSS/reset.css" rel="stylesheet" type="text/css"/>
 <link href="../httpdocs/CSS/WebEnglishTeacherCSS.css" rel="stylesheet" type="text/css" />
 <link href="../httpdocs/CSS/responsive.css" rel="stylesheet" type="text/css" />
 <!-- links to icon and Facebook Thumbnail -->
