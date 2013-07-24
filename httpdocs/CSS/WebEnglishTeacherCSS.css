@@ -69,7 +69,6 @@ div.headerenotes {
 
 div.headertwitter {
     display: inline-block;
-    /*width: 116px;*/
     width: 49%;
     height: 25px;
     text-align: right;
@@ -97,8 +96,6 @@ select.mobile-selector {
 }
 
 .webenglish #leftcontent {
-   /* float: left;*/
-    /*width: 724px;*/
     display: block;
     width: 100%;
     padding: 0;
@@ -107,11 +104,9 @@ select.mobile-selector {
 }
 
 .webenglish #leftcontenttop {
-   /* width: 724px;*/
     width: 100%;
     padding: 0;
     margin: 0;
-    /*float: left;*/
     display: block;
 }
 
@@ -123,30 +118,28 @@ select.mobile-selector {
 
 .webenglish #rightcontent {
     float: right;
-    /*width: 300px;*/
     width: 100%;
     height: auto;
     background: url(../cgimages/sidebar2_green.gif) repeat-y #86b242;
     padding: 0;
     display: block;
-    margin: 0 auto;
-    margin-bottom: 1em;
+    margin: 0 auto 1em auto;
 }
 
 .webenglish #rightcontent a {
     width:100%;
 }
 
-.webenglish #rightcontent img {
+.webenglish #rightcontent  img {
     height: auto;
     width: 100%;
 }
 div.sidenewsletter {
-    /*float: left;*/
-    width: 175px;
     height: 125px;
     background: url(../cgimages/sidebar1_green.gif) repeat-x;
     padding: 0;
+    width: 100%;
+    text-align: center;
 }
 
 div.sidenewslettertext {
@@ -157,6 +150,9 @@ div.sidenewslettertext {
     color: #FFF;
     font-weight: bold;
     text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding-top: 1em;
 }
 
 div.sidenewsletter-in {
@@ -182,21 +178,28 @@ div.sidenewslettertext-in {
 }
 
 div.sidearticle {
-    float: left;
+    /*float: left;
     width: 549px;
     height: 125px;
     background: url(../cgimages/article-background2.jpg) no-repeat;
-    padding: 0;
+    padding: 0;*/
+
+    display: none;
 }
 
+/*
 div.sidearticletext {
     width: 509px;
     max-height: 100px;
     font-family: Verdana, Geneva, sans-serif;
     font-size: 13px;
     color: #000;
-}
 
+
+
+
+}*/
+/*
 div.sidearticletext a, div.sidearticletext a:visited {
     font-family: Verdana, Geneva, sans-serif;
     font-size: 13px;
@@ -207,12 +210,13 @@ div.sidearticletext a:hover {
     font-family: Verdana, Geneva, sans-serif;
     font-size: 13px;
     color: #EEE;
-}
+}*/
+
 
 div.sidenav3, div.sidenav {
     display: none;
 }
-
+/*
 div.sidenavtext {
     width: 140px;
     padding: 0;
@@ -244,7 +248,7 @@ div.sidenavtext a:hover {
     font-size: 11px;
     color: #999;
     text-decoration: underline;
-}
+}*/
 
 div.page404 {
     background: url(../cgimages/main-background.gif) repeat-x;
@@ -339,12 +343,12 @@ div.literacysite a {
     width: 100%;
 }
 
-div.literacysite a img {
+div.literacysite > a > img {
     width: 90%;
-    margin: 5%;
+    /*margin: 5%;*/
     height: 90%;
 }
-
+/*
 div.sidebar2 {
     position: relative;
     left: 0;
@@ -353,7 +357,7 @@ div.sidebar2 {
     padding: 0;
 
     display: none;
-}
+}*/
 
 div.footer {
     display: none;
@@ -511,15 +515,8 @@ ul.mobile-nav li > a {
 @media only screen and (min-width: 481px) {
 
     body {
-        font-family: Verdana, Arial, Helvetica, sans-serif;
-        font-size: 13px;
-        padding: 0;
-        text-align: left;
-        color: #000;
-        height: 100%;
         width: 1024px;
         margin: 0 auto;
-        display: block;
         background: #fff url(../cgimages/wet-background.gif) repeat-y fixed center;
     }
 
@@ -534,14 +531,6 @@ ul.mobile-nav li > a {
 
     .webenglish #adheader{
         display: block;
-    }
-
-    .webenglish #container {
-        position: relative;
-        margin: 0 auto;
-        display: block;
-        width: 100%;
-        text-align: left;
     }
 
     .webenglish #adheader {
@@ -562,7 +551,7 @@ ul.mobile-nav li > a {
     div.headerads {
         display: inline-block;
         padding: 5px;
-        width: 728px;
+        /*width: 728px;*/
         height: 90px;
     }
 
@@ -634,7 +623,8 @@ ul.mobile-nav li > a {
 
     div.sidenewsletter {
         float: left;
-        width: 175px;
+       /* width: 175px;*/
+        width: 25%;
         height: 125px;
         background: url(../cgimages/sidebar1_green.gif) repeat-x;
         padding: 0;
@@ -653,6 +643,7 @@ ul.mobile-nav li > a {
         font-weight: bold;
         text-align: center;
     }
+
 
     div.sidenewsletter-in {
         width: 724px;
@@ -673,10 +664,11 @@ ul.mobile-nav li > a {
 
     div.sidearticle {
         float: left;
-        width: 549px;
+        width: 75%;
         height: 125px;
         background: url(../cgimages/article-background2.jpg) no-repeat;
-        padding: 0;
+        /*padding: 0 0 0 1em*/
+        display: block;
     }
 
     div.sidearticletext {
@@ -685,6 +677,12 @@ ul.mobile-nav li > a {
         font-family: Verdana, Geneva, sans-serif;
         font-size: 13px;
         color: #000;
+    }
+
+    div.sidearticletext p {
+        width: 90%;
+        padding-top: 1.25em;
+        margin: 0 auto;
     }
 
     div.sidearticletext a, div.sidearticletext a:visited {
@@ -824,7 +822,7 @@ ul.mobile-nav li > a {
         width: 280px;
         height: 131px;
     }
-
+/*
     div.sidebar2 {
         position: relative;
         left: 0;
@@ -832,7 +830,7 @@ ul.mobile-nav li > a {
         width: 300px;
         padding: 0;
     }
-
+*/
     div.footer {
         width: 509px;
         padding: 0;
@@ -1054,7 +1052,7 @@ ul.mobile-nav li > a {
 
 /* Desktop Layout: 769px to a max of 1232px.  Inherits styles from: Mobile Layout and Tablet Layout. */
 
-@media only screen and (min-width: 769px) {
+@media only screen and (min-width: 970px) {
 
 }
 
@@ -1439,6 +1437,9 @@ div.literacysite {
     height: 131px;
 }
 
+
+*/
+/*
 div.sidebar2 {
     position: relative;
     left: 0;
@@ -1446,6 +1447,8 @@ div.sidebar2 {
     width: 300px;
     padding: 0;
 }
+*/
+/*
 
 div.footer {
     width: 509px;

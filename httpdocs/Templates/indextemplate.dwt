@@ -69,8 +69,10 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
 <!-- End Lightbox Code -->
 
 <center>
+<!--
 <table width="1024" height="1150" border="0" cellpadding="0" cellspacing="0"><tr>
   <td valign="top">
+  -->
 <div id="container">
   <div id="adheader">
   		<div class="headerads">
@@ -88,30 +90,55 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
 	<a href="http://twitter.com/webenglishteach" target="_blank"><img src="../cgimages/twitter3.gif" border="0" width="116" height="25" /></a></div>
     <div class="headerfacebook">
     <a href="http://www.facebook.com/home.php?#/pages/Web-English-Teacher/201777963135" target="_blank"><img src="../cgimages/facebook3.gif" border="0" width="116" height="25" /></a></div>
-
-
+<ul class="mobile-nav">
+<li>|</li>
+<li class="nav-item"><a href="#">Home</a></li>
+<li>|</li>
+<li class="nav-item"><a href="#">Home</a></li>
+<li>|</li>
+<li class="nav-item"><a href="#">Home</a></li>
+<li>|</li>
+<li class="nav-item"><a href="#">Home</a></li>
+<li>|</li>
+</ul>
+<select class="mobile-selector">
+<option><a href="../httpdocs/index.html">Home</a></option>
+<option><a href="../httpdocs/ap.html">AP & IB</a></option> 
+<option><a href="../httpdocs/bookreports.html">Book Reports</a></option> 
+<option><a href="../httpdocs/childlit.html">Children's Literature</a></option> 
+<option><a href="../httpdocs/drama.html">Drama</a></option> 
+<option><a href="../httpdocs/esl.html">ENL/ESL</a></option> 
+<option><a href="../httpdocs/grammar.html">Grammar</a></option> 
+<option><a href="../httpdocs/interdis.html">Interdisciplinary</a></option>
+<option><a href="../httpdocs/journ.html">Journalism</a></option>
+<option><a href="../httpdocs/fun.html">Just for Fun</a></option>
+<option><a href="../httpdocs/litmain.html">Literature (Prose)</a></option>
+<option><a href="../httpdocs/media.html">Media</a></option>
+<option><a href="../httpdocs/myth.html">Mythology</a></option>
+<option><a href="../httpdocs/poetry.html">Poetry</a></option>
+<option><a href="../httpdocs/profres.html">Professional Resources</a></option>
+<option><a href="../httpdocs/readingmain.html">Reading/Literacy</a></option>
+<option><a href="../httpdocs/shakespeare.html">Shakespeare</a></option>
+<option><a href="../httpdocs/speech.html">Speech</a></option>
+<option><a href="../httpdocs/guides.html">Study Guides</a></option>
+<option><a href="../httpdocs/tech.html">Technology Integration</a></option>
+<option><a href="../httpdocs/vocab.html">Vocabulary</a></option>
+<option><a href="../httpdocs/writing.html">Writing</a></option>
+<option><a href="../httpdocs/ya.html">Young Adult Literature</a></option>
+</select>
 <div class="horizontal">
 <div class="nav-home">
-				<ul>
-					<li><a href="../index.html"><img src="../cgimages/spacer.gif" border="0" width="80" height="25"alt="Home" /></a></li>
-                </ul>
-                </div>
-                <div class="nav-blog">
-				<ul>
-                	<li><a href="http://www.webenglishteacher.com/chalkdust/"><img src="../cgimages/spacer.gif" border="0" width="80" height="25"alt="Chalkdust (blog)" /></a></li>
-                </ul>
-                </div>
-                 <div class="nav-sitemap">
-                <ul>
-					<li><a href="http://www.webenglishteacher.com/generator/data/sitemap.html"><img src="../cgimages/spacer.gif" border="0" width="80" height="25"alt="Site Map" /></a></li>
-                 </ul>
-              </div>
-                 <div class="nav-contact">
-                 <ul>
-					<li><a href="../contact.html"><img src="../cgimages/spacer.gif" border="0" width="80" height="25"alt="Contact Us" /></a></li>
-				</ul>
-                </div>
-			</div>
+<a href="../httpdocs/index.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Home" /></a></div>
+<div class="nav-blog">
+<a href="http://www.webenglishteacher.com/chalkdust/"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Blog" /></a></div>
+<div class="nav-sitemap">
+<a href="http://www.webenglishteacher.com/generator/data/sitemap.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Site Map" /></a>
+</div>
+<div class="nav-contact">
+<a href="../httpdocs/contact.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Contact Us" /></a>
+
+</div>
+</div>
   <!-- end #header -->
   </div>
 
@@ -166,7 +193,9 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
 	           	 	</div>
     	        </div>
 				<div class="mainContent">
+                <!--
                 <table width="549" border="0" cellpadding="0" cellspacing="0"><tr><td valign="top">
+                -->
             		<div class="mainContentText"><!-- TemplateBeginEditable name="Body" -->
             		  <h1>Title</h1>
                       <p>text</p>
@@ -195,7 +224,7 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
                     
                     	</div>
 	            	</div>
-                    </td></tr></table>
+                    <!--</td></tr></table>-->
     	        </div>
 	    	<!--end left-->
 	 	   	</div>
@@ -225,7 +254,9 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
   </div>
 <!-- end #container -->
 </div>
+<!--
 </td></tr></table>
+-->
 </center>
 <!-- Begin comScore Tag -->
 <script>
