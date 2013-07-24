@@ -1,6 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="google-site-verification" content="0CDtge_gLojARw36LaMM5HMQf1EwOj0yKAZ3leNEBz8" />
     <meta http-equiv="Cache-control" content="public">
     <meta http-equiv="window-target" content="_top">
@@ -8,6 +9,7 @@
     <meta name="robots" content="index,follow">
     <!-- TemplateBeginEditable name="head" -->
     <meta name="description" content="Lesson plans for K-12 English/Language Arts teachers">
+
     <!-- TemplateEndEditable -->
     <!-- TemplateBeginEditable name="doctitle" -->
     <title>Web English Teacher</title>
@@ -102,22 +104,22 @@
             <img src="../httpdocs/cgimages/facebook3.gif" border="0" width="116" height="25" />
         </a>
     	</div>
-<ul class="mobile-nav">
+        <ul class="mobile-nav">
             <li>|</li>
             <li class="nav-item">
-                <a href="#">Home</a>
+                <a href="../httpdocs/index.html">Home</a>
             </li>
             <li>|</li>
             <li class="nav-item">
-                <a href="#">Home</a>
+                <a href="http://www.webenglishteacher.com/chalkdust/">Chalkdust</a>
             </li>
             <li>|</li>
             <li class="nav-item">
-                <a href="#">Home</a>
+                <a href="http://www.webenglishteacher.com/generator/data/sitemap.html">Sitemap</a>
             </li>
             <li>|</li>
-            <li class="nav-item">
-                <a href="#">Home</a>
+            <li class="../httpdocs/contact.html">
+                <a href="#">Contact</a>
             </li>
             <li>|</li>
         </ul>

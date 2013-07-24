@@ -2,19 +2,19 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <!--TemplateInfo codeOutsideHTMLIsLocked="true"-->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta http-equiv="Cache-control" content="public">
 <meta http-equiv="window-target" content="_top">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="robots" content="index,follow">
 <!-- TemplateBeginEditable name="head" -->
 <meta name="description" content="Lesson plans for K-12 English Language Arts teachers">
+
 <!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="doctitle" -->
 <title>Web English Teacher</title>
 <!-- TemplateEndEditable -->
-<link href="../httpdocs/CSS/reset.css" rel="stylesheet" type="text/css"/>
 <link href="../httpdocs/CSS/WebEnglishTeacherCSS.css" rel="stylesheet" type="text/css" />
-<link href="../httpdocs/CSS/responsive.css" rel="stylesheet" type="text/css" />
 <!-- links to icon and Facebook Thumbnail -->
 <link rel="SHORTCUT ICON" HREF="../httpdocs/cgimages/favicon.ico">
 <link rel="image_src" href="/graphics/fb-thumbnail.jpg />
@@ -114,19 +114,19 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
         <ul class="mobile-nav">
             <li>|</li>
             <li class="nav-item">
-                <a href="#">Home</a>
+                <a href="../httpdocs/index.html">Home</a>
             </li>
             <li>|</li>
             <li class="nav-item">
-                <a href="#">Home</a>
+                <a href="http://www.webenglishteacher.com/chalkdust/">Chalkdust</a>
             </li>
             <li>|</li>
             <li class="nav-item">
-                <a href="#">Home</a>
+                <a href="http://www.webenglishteacher.com/generator/data/sitemap.html">Sitemap</a>
             </li>
             <li>|</li>
-            <li class="nav-item">
-                <a href="#">Home</a>
+            <li class="../httpdocs/contact.html">
+                <a href="#">Contact</a>
             </li>
             <li>|</li>
         </ul>
