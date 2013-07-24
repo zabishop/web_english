@@ -124,30 +124,32 @@
             <li>|</li>
         </ul>
     
-        <select class="mobile-selector">
-            <option><a href="../httpdocs/index.html">Home</a></option>
-            <option><a href="../httpdocs/ap.html">AP & IB</a></option>
-            <option><a href="../httpdocs/bookreports.html">Book Reports</a></option>
-            <option><a href="../httpdocs/childlit.html">Children's Literature</a></option>
-            <option><a href="../httpdocs/drama.html">Drama</a></option>
-            <option><a href="../httpdocs/esl.html">ENL/ESL</a></option>
-            <option><a href="../httpdocs/grammar.html">Grammar</a></option>
-            <option><a href="../httpdocs/interdis.html">Interdisciplinary</a></option>
-            <option><a href="../httpdocs/journ.html">Journalism</a></option>
-            <option><a href="../httpdocs/fun.html">Just for Fun</a></option>
-            <option><a href="../httpdocs/litmain.html">Literature (Prose)</a></option>
-            <option><a href="../httpdocs/media.html">Media</a></option>
-            <option><a href="../httpdocs/myth.html">Mythology</a></option>
-            <option><a href="../httpdocs/poetry.html">Poetry</a></option>
-            <option><a href="../httpdocs/profres.html">Professional Resources</a></option>
-            <option><a href="../httpdocs/readingmain.html">Reading/Literacy</a></option>
-            <option><a href="../httpdocs/shakespeare.html">Shakespeare</a></option>
-            <option><a href="../httpdocs/speech.html">Speech</a></option>
-            <option><a href="../httpdocs/guides.html">Study Guides</a></option>
-            <option><a href="../httpdocs/tech.html">Technology Integration</a></option>
-            <option><a href="../httpdocs/vocab.html">Vocabulary</a></option>
-            <option><a href="../httpdocs/writing.html">Writing</a></option>
-            <option><a href="../httpdocs/ya.html">Young Adult Literature</a></option>
+        <select class="mobile-selector" onChange="if(this.selectedIndex!=0)
+self.location=this.options[this.selectedIndex].value">
+            <option value ="">Select a Page</option>
+            <option value ="../httpdocs/index.html">Home</option>
+            <option value ="../httpdocs/ap.html">AP & IB</option>
+            <option value ="../httpdocs/bookreports.html">Book Reports</option>
+            <option value ="../httpdocs/childlit.html">Children's Literature</option>
+            <option value ="../httpdocs/drama.html">Drama</option>
+            <option value ="../httpdocs/esl.html">ENL/ESL</option>
+            <option value ="../httpdocs/grammar.html">Grammar</option>
+            <option value="../httpdocs/interdis.html">Interdisciplinary</option>
+        	<option value ="../httpdocs/journ.html">Journalism</option>
+            <option value ="../httpdocs/fun.html">Just for Fun</option>
+            <option value ="../httpdocs/litmain.html">Literature (Prose)</option>
+            <option value ="../httpdocs/media.html">Media</option>
+            <option value ="../httpdocs/myth.html">Mythology</option>
+            <option value ="../httpdocs/poetry.html">Poetry</option>
+            <option value ="../httpdocs/profres.html">Professional Resources</option>
+            <option value ="../httpdocs/readingmain.html">Reading/Literacy</option>
+            <option value ="../httpdocs/shakespeare.html">Shakespeare</option>
+            <option value ="../httpdocs/speech.html">Speech</option>
+            <option value ="../httpdocs/guides.html">Study Guides</option>
+            <option value ="../httpdocs/tech.html">Technology Integration</option>
+            <option value ="../httpdocs/vocab.html">Vocabulary</option>
+            <option value ="../httpdocs/writing.html">Writing</option>
+            <option value ="../httpdocs/ya.html">Young Adult Literatur</option>
         </select>
         <div class="horizontal">
             <div class="nav-home">
