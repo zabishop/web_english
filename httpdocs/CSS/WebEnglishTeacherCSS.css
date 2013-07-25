@@ -2,6 +2,7 @@
 html {
     height: 100%;
 }
+
 body {
     font-family: Verdana, Arial, Helvetica, sans-serif;
     font-size: 13px;
@@ -108,13 +109,14 @@ select.mobile-selector {
 }
 
 .webenglish #rightcontent a {
-    width:100%;
+    width: 100%;
 }
 
 .webenglish #rightcontent  img {
     height: auto;
     width: 100%;
 }
+
 div.sidenewsletter {
     height: 125px;
     background: url(../cgimages/sidebar1_green.gif) repeat-x;
@@ -147,8 +149,6 @@ div.sidenewsletter-in img {
     width: 100%;
     height: 35px;
 }
-
-
 
 div.sidearticle {
     display: none;
@@ -384,7 +384,6 @@ div.horizontal {
 }
 
 ul.mobile-nav {
-    background: blue;
     list-style: none;
     text-align: center;
     height: 32px;
@@ -396,14 +395,18 @@ ul.mobile-nav {
 
 ul.mobile-nav li {
     display: inline-block;
-    margin: 5px .125em;
     color: white;
-    font-size: 1.125em;
+    margin: 5px 0;
 }
 
 ul.mobile-nav li > a {
     color: white;
-    font-size: .875em;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+ul.mobile-nav li.nav-item {
+    color: white;
 }
 
 /* Tablet Layout */
@@ -411,9 +414,7 @@ ul.mobile-nav li > a {
 @media only screen and (min-width: 481px) {
 
     body {
-        width: 1024px;
-        /*margin: 0 auto;*/
-        background: #fff url(../cgimages/wet-background.gif) repeat-y fixed center;
+        width: 100%;
     }
 
     .wetlogo {
@@ -421,17 +422,36 @@ ul.mobile-nav li > a {
         margin: 0;
     }
 
-    ul.mobile-nav, select.mobile-selector {
+    select.mobile-selector {
         display: none;
     }
 
-    .webenglish #adheader{
+    .webenglish #adheader {
         display: block;
         width: 100%;
         height: 110px;
         padding: 0;
         background: #9bc14e url(../cgimages/adheader_green.gif) repeat-x;
     }
+
+    ul.mobile-nav {
+        margin: 0;
+    }
+
+    ul.mobile-nav li {
+        margin: 5px 20px;
+    }
+
+    ul.mobile-nav li > a {
+        color: white;
+        font-size: 1em;
+        font-weight: bold;
+    }
+
+    ul.mobile-nav li.nav-item {
+        color: white;
+    }
+
 
     div.headerads {
         display: inline-block;
@@ -440,10 +460,6 @@ ul.mobile-nav li > a {
     }
 
     div.headerenotes {
-        display: inline-block;
-        width: 281px;
-        height: 100px;
-
 
         display: none;
     }
@@ -451,32 +467,41 @@ ul.mobile-nav li > a {
     div.headertwitter {
         vertical-align: top;
         width: 116px;
-        margin-top: 1em;
-        margin-left: 350px;
+        margin-top: 3em;
+        margin-left: 20%;
     }
 
     div.headerfacebook {
         vertical-align: top;
         width: 116px;
-        margin-top: 1em;
+        margin-top: 3em;
     }
 
     .webenglish #leftcontent {
         float: left;
-        width: 724px;
+        /*width: 724px;*/
+        width: 70%;
     }
 
     .webenglish #leftcontenttop {
-        width: 724px;
+        /*width: 724px;*/
+        width: 100%;
         float: left;
     }
 
     .webenglish #leftcontentbottom {
         display: inline-block;
+        /*width: 724px;*/
+        width: 100%;
     }
 
     .webenglish #rightcontent {
-        width: 300px;
+        width: 30%;
+        height: auto;
+    }
+
+    .webenglish #rightcontent img{
+        width: 100%;
         height: auto;
     }
 
@@ -490,8 +515,8 @@ ul.mobile-nav li > a {
     }
 
     div.sidenewsletter-in {
-        width: 724px;
-        height: 55px;
+        width: 100%;
+        height: auto;
     }
 
     div.sidenewslettertext-in {
@@ -540,7 +565,7 @@ ul.mobile-nav li > a {
 
     div.sidenav3, div.sidenav {
         float: left;
-        width: 175px;
+        width: 24%;
         height: 840px;
         background: url(../cgimages/sidenav-paper.gif) no-repeat;
         padding: 0;
@@ -588,17 +613,17 @@ ul.mobile-nav li > a {
     }
 
     div.mainContent3, div.mainContent {
-        width: 549px;
+        width: 76%;
     }
 
     div.mainContentText {
         display: inline-block;
-        width: 509px;
-        padding: 2em;
+        width: 90%;
+        padding: 5%;
     }
 
     div.rightbannerad {
-        width: 300px;
+        width: 100%;
     }
 
     div.rightbannerad a, div.rightbannerad a img {
@@ -607,7 +632,7 @@ ul.mobile-nav li > a {
     }
 
     div.footer {
-        width: 509px;
+        width: 100%;
         padding: 0;
         font-family: Verdana, Geneva, sans-serif;
         font-size: 11px;
@@ -619,24 +644,18 @@ ul.mobile-nav li > a {
         display: none;
     }
 
+    iframe {
+        display: block;
+        margin: 0 auto;
+    }
+
     div.footer a, div.footer a:visited, div.footer a:hover {
         font-family: Verdana, Geneva, sans-serif;
         font-size: 11px;
         color: #0f93ca;
     }
 
-    div.horizontal {
-        display: block;
-        position: absolute;
-        bottom: 0;
-        right: 0;
-        width: 609px;
-        height: 33px;
-    }
 
-    div.horizontal div {
-        float: left;
-    }
 
     div.nav-home {
         width: 129px;
@@ -744,7 +763,8 @@ ul.mobile-nav li > a {
 
 @media only screen and (min-width: 970px) {
     body {
-
+        width: 1024px;
+        background: #fff url(../cgimages/wet-background.gif) repeat-y fixed center;
     }
 
     .webenglish #container {
@@ -760,7 +780,9 @@ ul.mobile-nav li > a {
     }
 
     div.headerenotes {
+        display: inline-block;
         width: 281px;
+        height: 100px;
     }
 
     .webenglish #header {
@@ -769,10 +791,13 @@ ul.mobile-nav li > a {
 
     div.headertwitter {
         width: 116px;
+        margin-left: 350px;
+        margin-top: 1em;
     }
 
     div.headerfacebook {
         width: 116px;
+        margin-top: 1em;
     }
 
     div.headershare {
@@ -799,9 +824,6 @@ ul.mobile-nav li > a {
         width: 300px;
     }
 
-    .wetlogo {
-    }
-
     div.sidenewsletter {
         width: 175px;
     }
@@ -826,12 +848,6 @@ ul.mobile-nav li > a {
         width: 509px;
     }
 
-    div.sidearticletext a, div.sidearticletext a:visited {
-    }
-
-    div.sidearticletext a:hover {
-    }
-
     div.sidenav {
         width: 175px;
     }
@@ -844,22 +860,9 @@ ul.mobile-nav li > a {
         width: 140px;
     }
 
-    div.sidenavtext ul, div.sidenavtext li {
-
-    }
-
-    div.sidenavtext a, div.sidenavtext a:visited {
-
-    }
-
-    div.sidenavtext a:hover {
-
-    }
-
     div.mainContent {
         width: 549px;
     }
-
 
     div.mainContent3 {
         width: 549px;
@@ -867,13 +870,7 @@ ul.mobile-nav li > a {
 
     div.mainContentText {
 
-        width: 509px;
-    }
-
-    div.mainContentText a, div.mainContentText a:visited {
-    }
-
-    div.mainContentText a:hover {
+        width: 90%;
     }
 
     div.rightbannerad {
@@ -904,7 +901,6 @@ ul.mobile-nav li > a {
         width: 280px;
     }
 
-
     div.footer {
         width: 509px;
 
@@ -933,7 +929,6 @@ ul.mobile-nav li > a {
     a:hover {
 
     }
-
 
     h2, h4, h5, h6 {
 
@@ -964,7 +959,20 @@ ul.mobile-nav li > a {
     }
 
     div.horizontal {
+        display: block;
+        position: absolute;
+        bottom: 0;
+        right: 0;
         width: 609px;
+        height: 33px;
+    }
+
+    div.horizontal div {
+        float: left;
+    }
+
+    ul.mobile-nav {
+        display: none;
     }
 
     div.nav-home {

@@ -17,8 +17,22 @@
 <link href="../httpdocs/CSS/WebEnglishTeacherCSS.css" rel="stylesheet" type="text/css" />
 <!-- links to icon and Facebook Thumbnail -->
 <link rel="SHORTCUT ICON" HREF="../httpdocs/cgimages/favicon.ico">
-<link rel="image_src" href="/graphics/fb-thumbnail.jpg />
-<img src="http://www.webenglishteacher.com/graphics/fb-thumbnail.jpg" alt="Web English Teacher" width="100" height="100" style="display/none"/>
+
+    <!--[if IE 7]>
+    <link href="../httpdocs/CSS/ie7.css" media="screen, projection" rel="stylesheet" type="text/css"/>
+    <![endif]-->
+    <!--[if IE 8]>
+    <link href="../httpdocs/CSS/ie7.css" media="screen, projection" rel="stylesheet" type="text/css"/>
+    <link href="../httpdocs/CSS/ie8.css" media="screen, projection" rel="stylesheet" type="text/css"/>
+    <![endif]-->
+    <!--[if IE 9]>
+    <link href="../httpdocs/CSS/ie9.css" media="screen, projection" rel="stylesheet" type="text/css"/>
+    <![endif]-->
+
+
+
+<link rel="image_src" href="/graphics/fb-thumbnail.jpg" />
+<img src="http://www.webenglishteacher.com/graphics/fb-thumbnail.jpg" alt="Web English Teacher" width="100" height="100" style="display: none"/>
 <!-- end links -->
 
 <!-- begin HotChalk/Adzerk code June 2012 -->
@@ -112,7 +126,7 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
             </a>
         </div>
         <ul class="mobile-nav">
-            <li>|</li>
+
             <li class="nav-item">
                 <a href="../httpdocs/index.html">Home</a>
             </li>
@@ -125,10 +139,10 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
                 <a href="http://www.webenglishteacher.com/generator/data/sitemap.html">Sitemap</a>
             </li>
             <li>|</li>
-            <li class="../httpdocs/contact.html">
-                <a href="#">Contact</a>
+            <li class="nav-item">
+                <a href="../httpdocs/contact.html">Contact Us</a>
             </li>
-            <li>|</li>
+
         </ul>
     <form>
         <select class="mobile-selector" onChange="if(this.selectedIndex!=0)
