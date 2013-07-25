@@ -288,7 +288,7 @@ self.location=this.options[this.selectedIndex].value">
                             </script>
     
                             <!-- Search Google -->
-                            | <a href="../httpdocs/about.html">About Web English Teacher</a> | <a
+                            | <a href="../httpdocs/about.html">About</a> | <a
                                 href="http://www.webenglishteacher.com/generator/data/sitemap.html">Site Map</a> | <a
                                 href="../httpdocs/privacypolicy.html">Privacy Policy</a> | <a
                                 href="../httpdocs/contact.html">Contact Us</a> | <br/>&copy;2000-2013 Web English Teacher,
@@ -361,7 +361,7 @@ self.location=this.options[this.selectedIndex].value">
             </script>
             -->
             <!-- Search Google -->
-            | <a href="../httpdocs/about.html">About Web English Teacher</a> | <a
+            | <a href="../httpdocs/about.html">About Web</a> | <a
                 href="http://www.webenglishteacher.com/generator/data/sitemap.html">Site Map</a> | <a
                 href="../httpdocs/privacypolicy.html">Privacy Policy</a> | <a href="../httpdocs/contact.html">Contact Us</a>
             | <br/>&copy;2000-2013 Web English Teacher, all rights reserved.

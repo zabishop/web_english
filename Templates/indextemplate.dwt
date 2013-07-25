@@ -1,309 +1,276 @@
-  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-  <html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-      <meta name="google-site-verification" content="0CDtge_gLojARw36LaMM5HMQf1EwOj0yKAZ3leNEBz8" />
-      <meta http-equiv="Cache-control" content="public">
-      <meta http-equiv="window-target" content="_top">
-      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-      <meta name="robots" content="index,follow">
-      <!-- TemplateBeginEditable name="head" -->
-      <meta name="description" content="Lesson plans for K-12 English/Language Arts teachers">
-  
-      <!-- TemplateEndEditable -->
-      <!-- TemplateBeginEditable name="doctitle" -->
-      <title>Web English Teacher</title>
-      <!-- TemplateEndEditable -->
-      <link href="../httpdocs/CSS/WebEnglishTeacherCSS.css" rel="stylesheet" type="text/css" />
-          <!--[if IE 7]>
-    <link href="../httpdocs/CSS/ie7.css" media="screen, projection" rel="stylesheet" type="text/css"/>
-    <![endif]-->
-    <!--[if IE 8]>
-    <link href="../httpdocs/CSS/ie7.css" media="screen, projection" rel="stylesheet" type="text/css"/>
-    <link href="../httpdocs/CSS/ie8.css" media="screen, projection" rel="stylesheet" type="text/css"/>
-    <![endif]-->
-    <!--[if IE 9]>
-    <link href="../httpdocs/CSS/ie9.css" media="screen, projection" rel="stylesheet" type="text/css"/>
-    <![endif]-->
-      <!-- links to icon and Facebook Thumbnail -->
-      <link rel="SHORTCUT ICON" HREF="../httpdocs/cgimages/favicon.ico">
-      <link rel="image_src" href="/graphics/fb-thumbnail.jpg" />
-      <img src="http://www.webenglishteacher.com/graphics/fb-thumbnail.jpg" alt="Web English Teacher" width="100" height="100" style="display: none"/>
-      <!-- end links -->
-      
-      <!-- begin HotChalk/Adzerk code June 2012 -->
-      <script type="text/javascript">
-          var p="http",d="static";if(document.location.protocol=="https:"){p+="s";d="engine";}var z=document.createElement("script");z.type="text/javascript";z.async=true;z.src=p+"://"+d+".adzerk.net/ados.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(z,s);
-      </script>
-      <script type="text/javascript">
-          var ados = ados || {};
-          ados.run = ados.run || [];
-          ados.run.push(function() {
-          /* load placement for account: HotChalk, site: Web English Teacher, size: 728x90 - Leaderboard, zone: WebEnglish_728x90*/
-          ados_add_placement(1196, 15967, "azk97348", 4).setZone(4569);
-          ados_load();
-          });
-      </script>
-      
-      <!-- end HotChalk/Adzerk code June 2012 -->
-      <script type="text/javascript">
-      
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-19674696-1']);
-        _gaq.push(['_trackPageview']);
-      
-        (function() {
-          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-      
-      </script>
-  </head>
-  
-  <body class="webenglish">
-  
-  <!-- Lightbox Code -->
-      <script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'></script>
-      <script type='text/javascript'>
-          GS_googleAddAdSenseService("ca-pub-5197455941898387");
-          GS_googleEnableAllServices();
-      </script>
-      <script type='text/javascript'>
-          GA_googleAddSlot("ca-pub-5197455941898387", "EDLB-Creative-Zone");
-          GA_googleAddSlot("ca-pub-5197455941898387", "EDLB-WebEnglishTeacher-Zone");
-      </script>
-          <script type='text/javascript'>
-          GA_googleFetchAds();
-      </script>
-          <!-- EDLB-WebEnglishTeacher-Zone -->
-          <script type='text/javascript'>
-          GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
-      </script> 
-  <!-- End Lightbox Code -->
-  
-      <div id="container">
-          <div id="adheader">
-              <div class="headerads">
-              <!-- Begin Hotchalk/Adzerk tag for Web English Teacher ID#819707 -->
-              <div id="azk97348"></div>
-              <!-- End Hotchalk/Adzerk tag for Web English Teacher ID#819707 -->
-          </div>
-          <div class="headerenotes">
-              <a href="http://www.enotes.com/" target="_blank">
-                  <img src="../httpdocs/cgimages/enotes3.gif" border="0" width="280" height="100" alt="eNotes" />
-              </a>
-          </div>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="google-site-verification" content="0CDtge_gLojARw36LaMM5HMQf1EwOj0yKAZ3leNEBz8" />
+<meta http-equiv="Cache-control" content="public">
+<meta http-equiv="window-target" content="_top">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="robots" content="index,follow">
+<!-- TemplateBeginEditable name="head" -->
+<meta name="description" content="Lesson plans for K-12 English/Language Arts teachers">
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Web English Teacher</title>
+<!-- TemplateEndEditable -->
+<link href="../CSS/WebEnglishTeacherCSS.css" rel="stylesheet" type="text/css" />
+<!-- links to icon and Facebook Thumbnail -->
+<link rel="SHORTCUT ICON" HREF="../cgimages/favicon.ico">
+<link rel="image_src" href="/graphics/fb-thumbnail.jpg />
+<img src="http://www.webenglishteacher.com/graphics/fb-thumbnail.jpg" alt="Web English Teacher" width="100" height="100" style="display/none"/>
+<!-- end links -->
+
+<!-- begin HotChalk/Adzerk code June 2012 -->
+<script type="text/javascript">var p="http",d="static";if(document.location.protocol=="https:"){p+="s";d="engine";}var z=document.createElement("script");z.type="text/javascript";z.async=true;z.src=p+"://"+d+".adzerk.net/ados.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(z,s);</script>
+<script type="text/javascript">
+var ados = ados || {};
+ados.run = ados.run || [];
+ados.run.push(function() {
+/* load placement for account: HotChalk, site: Web English Teacher, size: 728x90 - Leaderboard, zone: WebEnglish_728x90*/
+ados_add_placement(1196, 15967, "azk97348", 4).setZone(4569);
+ados_load();
+});</script>
+
+<!-- end HotChalk/Adzerk code June 2012 -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19674696-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body class="webenglish">
+
+<!-- Lightbox Code -->
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-5197455941898387");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-5197455941898387", "EDLB-Creative-Zone");
+GA_googleAddSlot("ca-pub-5197455941898387", "EDLB-WebEnglishTeacher-Zone");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+<!-- EDLB-WebEnglishTeacher-Zone -->
+<script type='text/javascript'>
+GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
+</script> 
+<!-- End Lightbox Code -->
+
+<center>
+<!--
+<table width="1024" height="1150" border="0" cellpadding="0" cellspacing="0"><tr>
+  <td valign="top">
+  -->
+<div id="container">
+  <div id="adheader">
+  		<div class="headerads">
+        <!-- Begin Hotchalk/Adzerk tag for Web English Teacher ID#819707 -->
+<div id="azk97348"></div>
+<!-- End Hotchalk/Adzerk tag for Web English Teacher ID#819707 -->
+		</div>
+        <div class="headerenotes">
+        <a href="http://www.enotes.com/" target="_blank"><img src="../cgimages/enotes3.gif" border="0" width="280" height="100" alt="eNotes" /></a>
         </div>
-        <div id="header">
-          <a href="../httpdocs/index.html">
-              <img class="wetlogo" 
-                  src="../httpdocs/cgimages/WET_logo.gif" 
-                  border="0" alt="Web English Teacher" 
-                  width="300" 
-                  height="95"
-              />
-          </a>
-          <div class="headertwitter">
-              <a href="http://twitter.com/webenglishteach" target="_blank">
-                  <img src="../httpdocs/cgimages/twitter3.gif" border="0" width="116" height="25" />
-              </a>
-          </div>
-          <div class="headerfacebook">
-          <a href="http://www.facebook.com/home.php?#/pages/Web-English-Teacher/201777963135" target="_blank">
-              <img src="../httpdocs/cgimages/facebook3.gif" border="0" width="116" height="25" />
-          </a>
-          </div>
-          <ul class="mobile-nav">
-  
-              <li class="nav-item">
-                  <a href="../httpdocs/index.html">Home</a>
-              </li>
-              <li>|</li>
-              <li class="nav-item">
-                  <a href="http://www.webenglishteacher.com/chalkdust/">Chalkdust</a>
-              </li>
-              <li>|</li>
-              <li class="nav-item">
-                  <a href="http://www.webenglishteacher.com/generator/data/sitemap.html">Sitemap</a>
-              </li>
-              <li>|</li>
-              <li class="nav-item">
-                  <a href="../httpdocs/contact.html">Contact Us</a>
-              </li>
-  
-          </ul>
-      
-          <select class="mobile-selector" onChange="if(this.selectedIndex!=0)
-  self.location=this.options[this.selectedIndex].value">
-              <option value ="">Select a Page</option>
-              <option value ="../httpdocs/index.html">Home</option>
-              <option value ="../httpdocs/ap.html">AP & IB</option>
-              <option value ="../httpdocs/bookreports.html">Book Reports</option>
-              <option value ="../httpdocs/childlit.html">Children's Literature</option>
-              <option value ="../httpdocs/drama.html">Drama</option>
-              <option value ="../httpdocs/esl.html">ENL/ESL</option>
-              <option value ="../httpdocs/grammar.html">Grammar</option>
-              <option value="../httpdocs/interdis.html">Interdisciplinary</option>
-              <option value ="../httpdocs/journ.html">Journalism</option>
-              <option value ="../httpdocs/fun.html">Just for Fun</option>
-              <option value ="../httpdocs/litmain.html">Literature (Prose)</option>
-              <option value ="../httpdocs/media.html">Media</option>
-              <option value ="../httpdocs/myth.html">Mythology</option>
-              <option value ="../httpdocs/poetry.html">Poetry</option>
-              <option value ="../httpdocs/profres.html">Professional Resources</option>
-              <option value ="../httpdocs/readingmain.html">Reading/Literacy</option>
-              <option value ="../httpdocs/shakespeare.html">Shakespeare</option>
-              <option value ="../httpdocs/speech.html">Speech</option>
-              <option value ="../httpdocs/guides.html">Study Guides</option>
-              <option value ="../httpdocs/tech.html">Technology Integration</option>
-              <option value ="../httpdocs/vocab.html">Vocabulary</option>
-              <option value ="../httpdocs/writing.html">Writing</option>
-              <option value ="../httpdocs/ya.html">Young Adult Literatur</option>
-          </select>
-          <div class="horizontal">
-              <div class="nav-home">
-                  <a href="../httpdocs/index.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Home" /></a>
-              </div>
-              <div class="nav-blog">
-                  <a href="http://www.webenglishteacher.com/chalkdust/"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Chalkdust (blog)" /></a>
-              </div>
-              <div class="nav-sitemap">
-                  <a href="http://www.webenglishteacher.com/generator/data/sitemap.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Site Map" /></a>
-              </div>
-              <div class="nav-contact">
-                  <a href="../httpdocs/contact.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Contact Us" /></a>
-              </div>
-          </div>
-        <!-- end #header -->
-      </div>
-      <div id="pagecontent">	
-          <div id="leftcontent">
-              <div id="leftcontenttop">
-                  <div class="sidenewsletter">
-                      <div class="sidenewslettertext">
-                      <p>Web English Teacher FREE Newsletter</p>
-                      <a href="../httpdocs/newsletter.html"><img src="../httpdocs/cgimages/sign-up.gif" width="155" border="0" height="35" alt="Click here to sign up" /></a></div>
-                  </div>          
-                  <div class="sidearticle">
-                      <div class="sidearticletext">
-                      <!-- TemplateBeginEditable name="sidearticle" -->
-                          <p>Feature Article text here</p>
-                      <!-- TemplateEndEditable -->   	        
-                      </div>
-                  </div>
-              </div> 
-              <div id="leftcontentbottom">
-                  <div class="sidenav">
-                      <div class="sidenavtext">
-                          <ul> 
-                            <li><a href="../httpdocs/index.html">Home</a></li>
-                            <li><a href="../httpdocs/ap.html">AP & IB</a></li> 
-                            <li><a href="../httpdocs/bookreports.html">Book Reports</a></li> 
-                            <li><a href="../httpdocs/childlit.html">Children's Literature</a></li> 
-                            <li><a href="../httpdocs/drama.html">Drama</a></li> 
-                            <li><a href="../httpdocs/esl.html">ENL/ESL</a></li> 
-                            <li><a href="../httpdocs/grammar.html">Grammar</a></li> 
-                            <li><a href="../httpdocs/interdis.html">Interdisciplinary</a></li>
-                            <li><a href="../httpdocs/journ.html">Journalism</a></li>
-                            <li><a href="../httpdocs/fun.html">Just for Fun</a></li>
-                            <li><a href="../httpdocs/litmain.html">Literature (Prose)</a></li>
-                            <li><a href="../httpdocs/media.html">Media</a></li>
-                            <li><a href="../httpdocs/myth.html">Mythology</a></li>
-                            <li><a href="../httpdocs/poetry.html">Poetry</a></li>
-                            <li><a href="../httpdocs/profres.html">Professional Resources</a></li>
-                            <li><a href="../httpdocs/readingmain.html">Reading/Literacy</a></li>
-                            <li><a href="../httpdocs/shakespeare.html">Shakespeare</a></li>
-                            <li><a href="../httpdocs/speech.html">Speech</a></li>
-                            <li><a href="../httpdocs/guides.html">Study Guides</a></li>
-                            <li><a href="../httpdocs/tech.html">Technology Integration</a></li>
-                            <li><a href="../httpdocs/vocab.html">Vocabulary</a></li>
-                            <li><a href="../httpdocs/writing.html">Writing</a></li>
-                            <li><a href="../httpdocs/ya.html">Young Adult Literature</a></li>
-                          </ul> 
-                      </div>
-                  </div>
-                  <div class="mainContent">      
-                      <div class="mainContentText">
-                      <!-- TemplateBeginEditable name="Body" -->
-                        <h1>Title</h1>
-                        <p>text</p>
-                      <!-- TemplateEndEditable -->
-                        <hr/>
-                          <div class="footer">
-                          <!-- Search Google -->
-                              <div id="cse" style="width: 100%;">Loading</div>
-                                  <script src="http://www.google.com/jsapi" type="text/javascript"></script>
-                                  <script type="text/javascript"> 
-                                      google.load('search', '1', {language : 'en', style : google.loader.themes.SHINY});
-                                      google.setOnLoadCallback(function() {
-                                          var customSearchControl = new google.search.CustomSearchControl('013281907437875976694:dx6wwyqiqgu');
-                                          customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
-                                          customSearchControl.draw('cse');
-                                      }, true);
-                                  </script>
-  
-                              <!-- Search Google -->
-                              | <a href="../httpdocs/about.html">About Web English Teacher</a> | 
-                              <a href="http://www.webenglishteacher.com/generator/data/sitemap.html">Site Map</a> | 
-                              <a href="../httpdocs/privacypolicy.html">Privacy Policy</a> | 
-                              <a href="../httpdocs/contact.html">Contact Us</a> | 
-                              <br />&copy;2000-2013 Web English Teacher, all rights reserved.   
-                              <p>Web English Teacher presents the best of K-12 English Language 
-                              Arts teaching resources: lesson plans, videos, e-texts, technology 
-                              integration, criticism, and classroom activities. Permission to 
-                              link is granted to any educational site.</p>
-                              <p>This page updated <!-- TemplateBeginEditable name="Date" -->2012<!-- TemplateEndEditable -->.</p>
-                          </div>
-                      </div>
-                  </div>
-              <!--end left-->
-              </div>
-          </div>
-  
-          <div id="rightcontent">
-              <div class="rightbannerad">          
-                  <a href="http://edtechteacher.org/index.php/summer-workshops" target="_blank"><img src="../httpdocs/Templates/graphics/edtechteacher-summer13.jpg" width="300" height="250" border="1" /></a>
-              </div>   
-                  <!-- ValueClick Media 300x250 Medium Rectangle CODE for Web English Teacher -->
-              <script type="text/javascript">var vclk_options = {sid:50922,media_id:6,media_type:8,version:"1.3"};</script>
-              <script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=50922&media_id=6&media_type=8&version=1.3&exc=1"></script>
-              <noscript>
-                  <a href="http://media.fastclick.net/w/click.here?sid=50922&m=6&c=1" target="_blank">
-                      <img src="http://media.fastclick.net/w/get.media?sid=50922&m=6&tp=8&d=s&c=1&vcm_acv=1.3" width="300" height="250" border="1">
-                  </a>
-              </noscript>
-              <!-- ValueClick Media 300x250 Medium Rectangle CODE for Web English Teacher -->        
-              <a class="twitter-timeline"  href="https://twitter.com/webenglishteach"  data-widget-id="333651548217425920">Tweets by @webenglishteach</a>
-              <script>
-                  !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>                      
-              <div class="literacysite">
-                  <a href="http://www.theliteracysite.com/clickToGive/lit/home" target="_blank">
-                      <img src="../httpdocs/cgimages/literacysite.gif" width="280" border="0" height="131" align="Click to Give Free Books" />
-                  </a>
-              </div>
-          </div>
-       <!--end right-->
-    </div>
-  
-  <!--end page-->
   </div>
-  <!-- end #container -->
+  <div id="header">
+    <a href="../index.html"><img class="wetlogo" src="../cgimages/WET_logo.gif" border="0" alt="Web English Teacher" width="300" height="95" /></a>
+    <div class="headertwitter">
+	<a href="http://twitter.com/webenglishteach" target="_blank"><img src="../cgimages/twitter3.gif" border="0" width="116" height="25" /></a></div>
+    <div class="headerfacebook">
+    <a href="http://www.facebook.com/home.php?#/pages/Web-English-Teacher/201777963135" target="_blank"><img src="../cgimages/facebook3.gif" border="0" width="116" height="25" /></a></div>
+<ul class="mobile-nav">
+<li>|</li>
+<li class="nav-item"><a href="#">Home</a></li>
+<li>|</li>
+<li class="nav-item"><a href="#">Home</a></li>
+<li>|</li>
+<li class="nav-item"><a href="#">Home</a></li>
+<li>|</li>
+<li class="nav-item"><a href="#">Home</a></li>
+<li>|</li>
+</ul>
+<select class="mobile-selector">
+<option><a href="../httpdocs/index.html">Home</a></option>
+<option><a href="../httpdocs/ap.html">AP & IB</a></option> 
+<option><a href="../httpdocs/bookreports.html">Book Reports</a></option> 
+<option><a href="../httpdocs/childlit.html">Children's Literature</a></option> 
+<option><a href="../httpdocs/drama.html">Drama</a></option> 
+<option><a href="../httpdocs/esl.html">ENL/ESL</a></option> 
+<option><a href="../httpdocs/grammar.html">Grammar</a></option> 
+<option><a href="../httpdocs/interdis.html">Interdisciplinary</a></option>
+<option><a href="../httpdocs/journ.html">Journalism</a></option>
+<option><a href="../httpdocs/fun.html">Just for Fun</a></option>
+<option><a href="../httpdocs/litmain.html">Literature (Prose)</a></option>
+<option><a href="../httpdocs/media.html">Media</a></option>
+<option><a href="../httpdocs/myth.html">Mythology</a></option>
+<option><a href="../httpdocs/poetry.html">Poetry</a></option>
+<option><a href="../httpdocs/profres.html">Professional Resources</a></option>
+<option><a href="../httpdocs/readingmain.html">Reading/Literacy</a></option>
+<option><a href="../httpdocs/shakespeare.html">Shakespeare</a></option>
+<option><a href="../httpdocs/speech.html">Speech</a></option>
+<option><a href="../httpdocs/guides.html">Study Guides</a></option>
+<option><a href="../httpdocs/tech.html">Technology Integration</a></option>
+<option><a href="../httpdocs/vocab.html">Vocabulary</a></option>
+<option><a href="../httpdocs/writing.html">Writing</a></option>
+<option><a href="../httpdocs/ya.html">Young Adult Literature</a></option>
+</select>
+<div class="horizontal">
+<div class="nav-home">
+<a href="../httpdocs/index.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Home" /></a></div>
+<div class="nav-blog">
+<a href="http://www.webenglishteacher.com/chalkdust/"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Blog" /></a></div>
+<div class="nav-sitemap">
+<a href="http://www.webenglishteacher.com/generator/data/sitemap.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Site Map" /></a>
+</div>
+<div class="nav-contact">
+<a href="../httpdocs/contact.html"><img src="../httpdocs/cgimages/spacer.gif" border="0" width="80" height="25"alt="Contact Us" /></a>
+
+</div>
+</div>
+  <!-- end #header -->
   </div>
-  
-  <!-- Begin comScore Tag -->
-  <script>
-    var _comscore = _comscore || [];
-    _comscore.push({ c1: "2", c2: "6034644" });
-    (function() {
-      var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-      s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-      el.parentNode.insertBefore(s, el);
-    })();
-  </script>
-  <noscript>
-    <img src="http://b.scorecardresearch.com/p?c1=2&c2=6034644&cv=2.0&cj=1" />
-  </noscript>
-  <!-- End comScore Tag -->
-  </body>
-  </html>
+
+
+	<div id="pagecontent">	
+	    <div id="leftcontent">
+		    <div id="leftcontenttop">
+    	    	<div class="sidenewsletter">
+                	<div class="sidenewslettertext">
+        	    	<p>Web English Teacher FREE Newsletter</p>
+                    <a href="../newsletter.html"><img src="../cgimages/sign-up.gif" width="155" border="0" height="35" alt="Click here to sign up" /></a></div>
+            	</div>
+            
+	            <div class="sidearticle">
+                	<div class="sidearticletext"><!-- TemplateBeginEditable name="sidearticle" -->
+	<p>Feature Article text here</p>
+            		<!-- TemplateEndEditable -->
+    	        
+                	</div>
+        	    </div>
+	        </div> 
+		    <div id="leftcontentbottom">
+				<div class="sidenav">
+    	        	<div class="sidenavtext">
+    <ul> 
+      <li><a href="../index.html">Home</a></li>
+      <li><a href="../ap.html">AP & IB</a></li> 
+      <li><a href="../bookreports.html">Book Reports</a></li> 
+      <li><a href="../childlit.html">Children's Literature</a></li> 
+      <li><a href="../drama.html">Drama</a></li> 
+      <li><a href="../esl.html">ENL/ESL</a></li> 
+      <li><a href="../grammar.html">Grammar</a></li> 
+	  <li><a href="../interdis.html">Interdisciplinary</a></li>
+	  <li><a href="../journ.html">Journalism</a></li>
+	  <li><a href="../fun.html">Just for Fun</a></li>
+	  <li><a href="../litmain.html">Literature (Prose)</a></li>
+	  <li><a href="../media.html">Media</a></li>
+	  <li><a href="../myth.html">Mythology</a></li>
+	  <li><a href="../poetry.html">Poetry</a></li>
+	  <li><a href="../profres.html">Professional Resources</a></li>
+	  <li><a href="../readingmain.html">Reading/Literacy</a></li>
+	  <li><a href="../shakespeare.html">Shakespeare</a></li>
+	  <li><a href="../speech.html">Speech</a></li>
+	  <li><a href="../guides.html">Study Guides</a></li>
+      <li><a href="../tech.html">Technology Integration</a></li>
+	  <li><a href="../vocab.html">Vocabulary</a></li>
+	  <li><a href="../writing.html">Writing</a></li>
+	  <li><a href="../ya.html">Young Adult Literature</a></li>
+    </ul> 
+
+
+	           	 	</div>
+    	        </div>
+				<div class="mainContent">
+                <!--
+                <table width="549" border="0" cellpadding="0" cellspacing="0"><tr><td valign="top">
+                -->
+            		<div class="mainContentText"><!-- TemplateBeginEditable name="Body" -->
+            		  <h1>Title</h1>
+                      <p>text</p>
+            		<!-- TemplateEndEditable -->
+            		  <hr />
+                    	<div class="footer">
+                        <!-- Search Google -->
+<div id="cse" style="width: 100%;">Loading</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en', style : google.loader.themes.SHINY});
+  google.setOnLoadCallback(function() {
+    var customSearchControl = new google.search.CustomSearchControl('013281907437875976694:dx6wwyqiqgu');
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    customSearchControl.draw('cse');
+  }, true);
+</script>
+
+      <!-- Search Google -->
+| <a href="../about.html">About Web English Teacher</a> | <a href="http://www.webenglishteacher.com/generator/data/sitemap.html">Site Map</a> | <a href="../privacypolicy.html">Privacy Policy</a> | <a href="../contact.html">Contact Us</a> | <br />&copy;2000-2013 Web English Teacher, all rights reserved.   
+<p>Web English Teacher presents the best of K-12 English Language Arts teaching resources: lesson plans, videos, e-texts, technology integration, criticism, and classroom activities. Permission to link is granted to any educational site.</p>
+ 
+<p>This page updated <!-- TemplateBeginEditable name="Date" -->2012<!-- TemplateEndEditable -->.</p>
+
+
+                    
+                    	</div>
+	            	</div>
+                    <!--</td></tr></table>-->
+    	        </div>
+	    	<!--end left-->
+	 	   	</div>
+		</div>
+
+
+		<div id="rightcontent">
+        	<div class="rightbannerad">          
+<a href="http://edtechteacher.org/index.php/summer-workshops" target="_blank"><img src="graphics/edtechteacher-summer13.jpg" width="300" height="250" border="1" /></a>
+		  	</div>   
+                
+<!-- ValueClick Media 300x250 Medium Rectangle CODE for Web English Teacher -->
+<script type="text/javascript">var vclk_options = {sid:50922,media_id:6,media_type:8,version:"1.3"};</script><script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=50922&media_id=6&media_type=8&version=1.3&exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=50922&m=6&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=50922&m=6&tp=8&d=s&c=1&vcm_acv=1.3" width="300" height="250" border="1"></a></noscript>
+<!-- ValueClick Media 300x250 Medium Rectangle CODE for Web English Teacher -->
+           
+<a class="twitter-timeline"  href="https://twitter.com/webenglishteach"  data-widget-id="333651548217425920">Tweets by @webenglishteach</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+                                  
+            <div class="literacysite">
+            <a href="http://www.theliteracysite.com/clickToGive/lit/home" target="_blank"><img src="../cgimages/literacysite.gif" width="280" border="0" height="131" align="Click to Give Free Books" /></a></div>
+             </div>
+   		 <!--end right-->
+	  </div>
+
+	<!--end page-->
+  </div>
+<!-- end #container -->
+</div>
+<!--
+</td></tr></table>
+-->
+</center>
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6034644" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6034644&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+</body>
+</html>
