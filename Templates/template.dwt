@@ -9,30 +9,30 @@
 <meta name="robots" content="index,follow">
 <!-- TemplateBeginEditable name="head" -->
 <meta name="description" content="Lesson plans for K-12 English Language Arts teachers">
-
 <!-- TemplateEndEditable -->
+
 <!-- TemplateBeginEditable name="doctitle" -->
 <title>Web English Teacher</title>
 <!-- TemplateEndEditable -->
-<link href="../httpdocs/CSS/WebEnglishTeacherCSS.css" rel="stylesheet" type="text/css" />
+<link href="../CSS/WebEnglishTeacherCSS.css" rel="stylesheet" type="text/css" />
 <!-- links to icon and Facebook Thumbnail -->
-<link rel="SHORTCUT ICON" HREF="../httpdocs/cgimages/favicon.ico">
+<link rel="SHORTCUT ICON" HREF="../cgimages/favicon.ico">
 
     <!--[if IE 7]>
-    <link href="../httpdocs/CSS/ie7.css" media="screen, projection" rel="stylesheet" type="text/css"/>
+    <link href="../CSS/ie7.css" media="screen, projection" rel="stylesheet" type="text/css"/>
     <![endif]-->
     <!--[if IE 8]>
-    <link href="../httpdocs/CSS/ie7.css" media="screen, projection" rel="stylesheet" type="text/css"/>
-    <link href="../httpdocs/CSS/ie8.css" media="screen, projection" rel="stylesheet" type="text/css"/>
+    <link href="../CSS/ie7.css" media="screen, projection" rel="stylesheet" type="text/css"/>
+    <link href="../CSS/ie8.css" media="screen, projection" rel="stylesheet" type="text/css"/>
     <![endif]-->
     <!--[if IE 9]>
-    <link href="../httpdocs/CSS/ie9.css" media="screen, projection" rel="stylesheet" type="text/css"/>
+    <link href="../CSS/ie9.css" media="screen, projection" rel="stylesheet" type="text/css"/>
     <![endif]-->
-
-
-
+<!--
 <link rel="image_src" href="/graphics/fb-thumbnail.jpg" />
+
 <img src="http://www.webenglishteacher.com/graphics/fb-thumbnail.jpg" alt="Web English Teacher" width="100" height="100" style="display: none"/>
+-->
 <!-- end links -->
 
 <!-- begin HotChalk/Adzerk code June 2012 -->
@@ -45,8 +45,6 @@ ados.run.push(function() {
 ados_add_placement(1196, 15967, "azk97348", 4).setZone(4569);
 ados_load();
 });</script>
-
-
 <!-- end HotChalk/Adzerk code June 2012 -->
 
 <!-- Begin Google Analytics script -->
@@ -79,14 +77,13 @@ GA_googleAddSlot("ca-pub-5197455941898387", "EDLB-WebEnglishTeacher-Zone");
 <script type='text/javascript'>
 GA_googleFetchAds();
 </script>
-<!-- EDLB-WebEnglishTeacher-Zone -->
 
+<!-- EDLB-WebEnglishTeacher-Zone -->
 <script type='text/javascript'>
 GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
 </script> 
 <!-- End Lightbox Code -->
 
-<center>
 <div id="container">
     <div id="adheader">
         <div class="headerads">
@@ -94,41 +91,26 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
         </div>
         <div class="headerenotes">
             <a href="http://www.enotes.com/" target="_blank">
-                <img src="../httpdocs/cgimages/enotes3.gif"
-                     border="0"
-                     width="280"
-                     height="100"
-                     alt="eNotes"/>
+                <img src="../cgimages/enotes3.gif"/>
             </a>
         </div>
     </div>
     <div id="header">
-        <a href="../httpdocs/index.html">
-            <img class="wetlogo"
-                 src="../httpdocs/cgimages/WET_logo.gif"
-                 border="0" alt="Web English Teacher"
-                 width="300"
-                 height="95"/>
+        <a href="../index.html">
+            <img class="wetlogo" src="../cgimages/WET_logo.gif" alt="Web English Teacher"/>
         </a>
         <div class="headertwitter">
             <a href="http://twitter.com/webenglishteach" target="_blank">
-                <img src="../httpdocs/cgimages/twitter3.gif"
-                     border="0"
-                     width="116"
-                     height="25"/></a>
+                <img src="../cgimages/twitter3.gif"/></a>
         </div>
         <div class="headerfacebook">
             <a href="http://www.facebook.com/home.php?#/pages/Web-English-Teacher/201777963135" target="_blank">
-                <img src="../httpdocs/cgimages/facebook3.gif"
-                     border="0"
-                     width="116"
-                     height="25"/>
+                <img src="../cgimages/facebook3.gif"/>
             </a>
         </div>
         <ul class="mobile-nav">
-
             <li class="nav-item">
-                <a href="../httpdocs/index.html">Home</a>
+                <a href="../index.html">Home</a>
             </li>
             <li>|</li>
             <li class="nav-item">
@@ -140,100 +122,68 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
             </li>
             <li>|</li>
             <li class="nav-item">
-                <a href="../httpdocs/contact.html">Contact Us</a>
+                <a href="../contact.html">Contact Us</a>
             </li>
-
         </ul>
-    <form>
-        <select class="mobile-selector" onChange="if(this.selectedIndex!=0)
-self.location=this.options[this.selectedIndex].value">
-            <option value ="">Select a Page</option>
-            <option value ="../httpdocs/index.html">Home</option>
-            <option value ="../httpdocs/ap.html">AP & IB</option>
-            <option value ="../httpdocs/bookreports.html">Book Reports</option>
-            <option value ="../httpdocs/childlit.html">Children's Literature</option>
-            <option value ="../httpdocs/drama.html">Drama</option>
-            <option value ="../httpdocs/esl.html">ENL/ESL</option>
-            <option value ="../httpdocs/grammar.html">Grammar</option>
-            <option value="../httpdocs/interdis.html">Interdisciplinary</option>
-        	<option value ="../httpdocs/journ.html">Journalism</option>
-            <option value ="../httpdocs/fun.html">Just for Fun</option>
-            <option value ="../httpdocs/litmain.html">Literature (Prose)</option>
-            <option value ="../httpdocs/media.html">Media</option>
-            <option value ="../httpdocs/myth.html">Mythology</option>
-            <option value ="../httpdocs/poetry.html">Poetry</option>
-            <option value ="../httpdocs/profres.html">Professional Resources</option>
-            <option value ="../httpdocs/readingmain.html">Reading/Literacy</option>
-            <option value ="../httpdocs/shakespeare.html">Shakespeare</option>
-            <option value ="../httpdocs/speech.html">Speech</option>
-            <option value ="../httpdocs/guides.html">Study Guides</option>
-            <option value ="../httpdocs/tech.html">Technology Integration</option>
-            <option value ="../httpdocs/vocab.html">Vocabulary</option>
-            <option value ="../httpdocs/writing.html">Writing</option>
-            <option value ="../httpdocs/ya.html">Young Adult Literatur</option>
-        </select>
-    </form>
-    <!--
 
-<option value="" selected>Select a page
-<option value="startpag.htm">JavaScript FAQ
-<option value="numbers.htm">Numbers
-<option value="strings.htm">Strings
-<option value="navigati.htm">Navigation
-<option value="colors.htm">Colors
-<option value="http://www.javascripter.net">JavaScripter.net
-    -->
-    
-    
+   
         <div class="horizontal">
             <div class="nav-home">
-                <a href="../httpdocs/index.html">
-                    <img src="../httpdocs/cgimages/spacer.gif"
-                         border="0"
-                         width="80"
-                         height="25"
-                         alt="Home"/>
+                <a href="../index.html">
+                    <img src="../cgimages/spacer.gif" alt="Home"/>
                 </a>
             </div>
             <div class="nav-blog">
                 <a href="http://www.webenglishteacher.com/chalkdust/">
-                    <img src="../httpdocs/cgimages/spacer.gif"
-                         border="0"
-                         width="80"
-                         height="25"
-                         alt="Blog"/>
+                    <img src="../cgimages/spacer.gif" alt="Blog"/>
                 </a>
             </div>
             <div class="nav-sitemap">
                 <a href="http://www.webenglishteacher.com/generator/data/sitemap.html">
-                    <img src="../httpdocs/cgimages/spacer.gif"
-                         border="0"
-                         width="80"
-                         height="25"
-                         alt="Site Map"/>
+                    <img src="../cgimages/spacer.gif" alt="Site Map"/>
                 </a>
             </div>
             <div class="nav-contact">
-                <a href="../httpdocs/contact.html">
-                    <img src="../httpdocs/cgimages/spacer.gif"
-                         border="0"
-                         width="80"
-                         height="25"
-                         alt="Contact Us"
-                            />
+                <a href="../contact.html">
+                    <img src="../cgimages/spacer.gif" alt="Contact Us"/>
                 </a>
             </div>
         </div>
     </div><!-- end #header -->
+    <form>
+        <select class="mobile-selector" onChange="if(this.selectedIndex!=0) self.location=this.options[this.selectedIndex].value">
+            <option value ="">Select a Page</option>
+            <option value ="../index.html">Home</option>
+            <option value ="../ap.html">AP & IB</option>
+            <option value ="../bookreports.html">Book Reports</option>
+            <option value ="../childlit.html">Children's Literature</option>
+            <option value ="../drama.html">Drama</option>
+            <option value ="../esl.html">ENL/ESL</option>
+            <option value ="../grammar.html">Grammar</option>
+            <option value="../interdis.html">Interdisciplinary</option>
+        	<option value ="../journ.html">Journalism</option>
+            <option value ="../fun.html">Just for Fun</option>
+            <option value ="../litmain.html">Literature (Prose)</option>
+            <option value ="../media.html">Media</option>
+            <option value ="../myth.html">Mythology</option>
+            <option value ="../poetry.html">Poetry</option>
+            <option value ="../profres.html">Professional Resources</option>
+            <option value ="../readingmain.html">Reading/Literacy</option>
+            <option value ="../shakespeare.html">Shakespeare</option>
+            <option value ="../speech.html">Speech</option>
+            <option value ="../guides.html">Study Guides</option>
+            <option value ="../tech.html">Technology Integration</option>
+            <option value ="../vocab.html">Vocabulary</option>
+            <option value ="../writing.html">Writing</option>
+            <option value ="../ya.html">Young Adult Literature</option>
+        </select>
+    </form>
     <div id="pagecontent">
         <div id="leftcontent">
             <div id="leftcontenttop">
                 <div class="sidenewsletter-in">
-                    <a href="../httpdocs/newsletter.html">
-                        <img src="../httpdocs/cgimages/sign-up3.gif" 
-                             width="724"
-                             border="0" height="55" style="float:right"
-                             alt="Click here to sign up"/>
+                    <a href="../newsletter.html">
+                        <img src="../cgimages/sign-up3.gif" alt="Click here to sign up"/>
                     </a>
                 </div>
             </div>
@@ -241,29 +191,29 @@ self.location=this.options[this.selectedIndex].value">
                 <div class="sidenav3">
                     <div class="sidenavtext">
                         <ul>
-                            <li><a href="../httpdocs/index.html">Home</a></li>
-                            <li><a href="../httpdocs/ap.html">AP & IB</a></li>
-                            <li><a href="../httpdocs/bookreports.html">Book Reports</a></li>
-                            <li><a href="../httpdocs/childlit.html">Children's Literature</a></li>
-                            <li><a href="../httpdocs/drama.html">Drama</a></li>
-                            <li><a href="../httpdocs/esl.html">ENL/ESL</a></li>
-                            <li><a href="../httpdocs/grammar.html">Grammar</a></li>
-                            <li><a href="../httpdocs/interdis.html">Interdisciplinary</a></li>
-                            <li><a href="../httpdocs/journ.html">Journalism</a></li>
-                            <li><a href="../httpdocs/fun.html">Just for Fun</a></li>
-                            <li><a href="../httpdocs/litmain.html">Literature (Prose)</a></li>
-                            <li><a href="../httpdocs/media.html">Media</a></li>
-                            <li><a href="../httpdocs/myth.html">Mythology</a></li>
-                            <li><a href="../httpdocs/poetry.html">Poetry</a></li>
-                            <li><a href="../httpdocs/profres.html">Professional Resources</a></li>
-                            <li><a href="../httpdocs/readingmain.html">Reading/Literacy</a></li>
-                            <li><a href="../httpdocs/shakespeare.html">Shakespeare</a></li>
-                            <li><a href="../httpdocs/speech.html">Speech</a></li>
-                            <li><a href="../httpdocs/guides.html">Study Guides</a></li>
-                            <li><a href="../httpdocs/tech.html">Technology Integration</a></li>
-                            <li><a href="../httpdocs/vocab.html">Vocabulary</a></li>
-                            <li><a href="../httpdocs/writing.html">Writing</a></li>
-                            <li><a href="../httpdocs/ya.html">Young Adult Literature</a></li>
+                            <li><a href="../index.html">Home</a></li>
+                            <li><a href="../ap.html">AP & IB</a></li>
+                            <li><a href="../bookreports.html">Book Reports</a></li>
+                            <li><a href="../childlit.html">Children's Literature</a></li>
+                            <li><a href="../drama.html">Drama</a></li>
+                            <li><a href="../esl.html">ENL/ESL</a></li>
+                            <li><a href="../grammar.html">Grammar</a></li>
+                            <li><a href="../interdis.html">Interdisciplinary</a></li>
+                            <li><a href="../journ.html">Journalism</a></li>
+                            <li><a href="../fun.html">Just for Fun</a></li>
+                            <li><a href="../litmain.html">Literature (Prose)</a></li>
+                            <li><a href="../media.html">Media</a></li>
+                            <li><a href="../myth.html">Mythology</a></li>
+                            <li><a href="../poetry.html">Poetry</a></li>
+                            <li><a href="../profres.html">Professional Resources</a></li>
+                            <li><a href="../readingmain.html">Reading/Literacy</a></li>
+                            <li><a href="../shakespeare.html">Shakespeare</a></li>
+                            <li><a href="../speech.html">Speech</a></li>
+                            <li><a href="../guides.html">Study Guides</a></li>
+                            <li><a href="../tech.html">Technology Integration</a></li>
+                            <li><a href="../vocab.html">Vocabulary</a></li>
+                            <li><a href="../writing.html">Writing</a></li>
+                            <li><a href="../ya.html">Young Adult Literature</a></li>
                         </ul>
                     </div>
                 </div>
@@ -288,10 +238,10 @@ self.location=this.options[this.selectedIndex].value">
                             </script>
     
                             <!-- Search Google -->
-                            | <a href="../httpdocs/about.html">About</a> | <a
+                            | <a href="../about.html">About</a> | <a
                                 href="http://www.webenglishteacher.com/generator/data/sitemap.html">Site Map</a> | <a
-                                href="../httpdocs/privacypolicy.html">Privacy Policy</a> | <a
-                                href="../httpdocs/contact.html">Contact Us</a> | <br/>&copy;2000-2013 Web English Teacher,
+                                href="../privacypolicy.html">Privacy Policy</a> | <a
+                                href="../contact.html">Contact Us</a> | <br/>&copy;2000-2013 Web English Teacher,
                             all rights reserved.
                             <p>Web English Teacher presents the best of K-12 English Language Arts teaching resources:
                                 lesson plans, videos, e-texts, technology integration, criticism, and classroom activities.
@@ -310,19 +260,16 @@ self.location=this.options[this.selectedIndex].value">
             <div class="rightbannerad">
                 <!-- ValueClick Media 300x250 Medium Rectangle CODE for Web English Teacher -->
                 <script type="text/javascript">var vclk_options = {sid: 50922, media_id: 6, media_type: 8, version: "1.3"};</script>
-                <script class="vclk_pub_code" type="text/javascript"
-                        src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=50922&media_id=6&media_type=8&version=1.3&exc=1"></script>
+                <script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=50922&media_id=6&media_type=8&version=1.3&exc=1"></script>
                 <noscript>
                     <a href="http://media.fastclick.net/w/click.here?sid=50922&m=6&c=1" target="_blank">
-                        <img src="http://media.fastclick.net/w/get.media?sid=50922&m=6&tp=8&d=s&c=1&vcm_acv=1.3" width="300"
-                             height="250" border="1"></a>
+                        <img src="http://media.fastclick.net/w/get.media?sid=50922&m=6&tp=8&d=s&c=1&vcm_acv=1.3">
+                    </a>
                 </noscript>
                 <!-- ValueClick Media 300x250 Medium Rectangle CODE for Web English Teacher -->
-    
-    
-                <a href="http://edtechteacher.org/index.php/summer-workshops" target="_blank"><img
-                        src="../httpdocs/Templates/graphics/edtechteacher-summer13.jpg" width="300" height="250"
-                        border="1"/></a>
+                <a href="http://edtechteacher.org/index.php/summer-workshops" target="_blank">
+                	<img src="../Templates/graphics/edtechteacher-summer13.jpg"/>
+               	</a>
             </div>
     
             <a class="twitter-timeline" href="https://twitter.com/webenglishteach" data-widget-id="333651548217425920">Tweets
@@ -336,19 +283,19 @@ self.location=this.options[this.selectedIndex].value">
                     fjs.parentNode.insertBefore(js, fjs);
                 }
             }(document, "script", "twitter-wjs");</script>
-    
-    
+  
             <div class="literacysite">
-                <a href="http://www.theliteracysite.com/clickToGive/lit/home" target="_blank"><img
-                        src="../httpdocs/cgimages/literacysite.gif" width="266" border="0" height="124"
-                        align="Click to Give Free Books"/></a></div>
+                <a href="http://www.theliteracysite.com/clickToGive/lit/home" target="_blank">
+                	<img src="../cgimages/literacysite.gif" alt="Click to Give Free Books"/>
+                </a>
+            </div>
             <!--end right-->
         </div>
     
         <div class="mobile-footer">
             <hr>
             <!-- Search Google -->
-            <!--
+            
             <div id="cse" style="width: 100%;">Loading</div>
             <script src="http://www.google.com/jsapi" type="text/javascript"></script>
             <script type="text/javascript">
@@ -359,11 +306,11 @@ self.location=this.options[this.selectedIndex].value">
                 customSearchControl.draw('cse');
               }, true);
             </script>
-            -->
+            
             <!-- Search Google -->
-            | <a href="../httpdocs/about.html">About Web</a> | <a
+            | <a href="../about.html">About</a> | <a
                 href="http://www.webenglishteacher.com/generator/data/sitemap.html">Site Map</a> | <a
-                href="../httpdocs/privacypolicy.html">Privacy Policy</a> | <a href="../httpdocs/contact.html">Contact Us</a>
+                href="../privacypolicy.html">Privacy Policy</a> | <a href="../contact.html">Contact Us</a>
             | <br/>&copy;2000-2013 Web English Teacher, all rights reserved.
             <p>Web English Teacher presents the best of K-12 English Language Arts teaching resources: lesson plans, videos,
                 e-texts, technology integration, criticism, and classroom activities. Permission to link is granted to any
@@ -371,14 +318,11 @@ self.location=this.options[this.selectedIndex].value">
     
             <p>This page updated <!-- TemplateBeginEditable name="Mobile-Date" -->2013<!-- TemplateEndEditable -->.</p>
         </div>
-    
-    
         <!--end page-->
     </div>
 <!-- end #container -->
 </div>
 
-</center>
 <!-- Begin comScore Tag -->
 <script>
   var _comscore = _comscore || [];
@@ -393,5 +337,6 @@ self.location=this.options[this.selectedIndex].value">
   <img src="http://b.scorecardresearch.com/p?c1=2&c2=6034644&cv=2.0&cj=1" />
 </noscript>
 <!-- End comScore Tag -->
+
 </body>
 </html>
