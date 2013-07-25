@@ -13,6 +13,7 @@ body {
     width: 100%;
     margin: 0 auto;
     display: block;
+	overflow: hidden;
 }
 
 .webenglish #container {
@@ -82,7 +83,7 @@ select.mobile-selector {
     width: 100%;
     padding: 0;
     margin: 0;
-    background: none;
+
 }
 
 .webenglish #leftcontenttop {
@@ -96,6 +97,7 @@ select.mobile-selector {
     width: 100%;
     padding: 0;
     display: block;
+	     background: url(../cgimages/main-background.gif) repeat-x;
 }
 
 .webenglish #rightcontent {
@@ -156,6 +158,7 @@ div.sidearticle {
 
 div.sidenav3, div.sidenav {
     display: none;
+	height: 100%;
 }
 
 div.page404 {
@@ -170,7 +173,7 @@ div.mainContent3, div.mainContent {
     float: left;
     width: 100%;
     min-height: 400px;
-    background: url(../cgimages/main-background.gif) repeat-x;
+
 }
 
 div.mainContentText {
@@ -244,6 +247,7 @@ div.literacysite {
 
 ol.h-feed {
     width: 100%;
+	min-width: 100%;
 }
 
 div.literacysite a {
@@ -420,6 +424,8 @@ ul.mobile-nav li.nav-item {
     .wetlogo {
         display: inline-block;
         margin: 0;
+		width: 30%;
+		min-width: 250px;
     }
 
     select.mobile-selector {
@@ -427,7 +433,7 @@ ul.mobile-nav li.nav-item {
     }
 
     .webenglish #adheader {
-        display: block;
+
         width: 100%;
         height: 110px;
         padding: 0;
@@ -439,7 +445,7 @@ ul.mobile-nav li.nav-item {
     }
 
     ul.mobile-nav li {
-        margin: 5px 20px;
+        margin: 5px 2%;
     }
 
     ul.mobile-nav li > a {
@@ -465,22 +471,32 @@ ul.mobile-nav li.nav-item {
     }
 
     div.headertwitter {
-        vertical-align: top;
-        width: 116px;
+		position: relative;
+		left: 12%;
+		vertical-align: top;
         margin-top: 3em;
-        margin-left: 20%;
+		width: 11%;
     }
 
     div.headerfacebook {
+		position: relative;
+		left: 15.5%;
         vertical-align: top;
-        width: 116px;
         margin-top: 3em;
+		width: 11%;
     }
+	
+	div.headertwitter img,
+	div.headerfacebook img {
+		/*width: 100%;
+		height: auto;*/
+	}
 
     .webenglish #leftcontent {
         float: left;
         /*width: 724px;*/
         width: 70%;
+		
     }
 
     .webenglish #leftcontenttop {
@@ -567,13 +583,14 @@ ul.mobile-nav li.nav-item {
         float: left;
         width: 24%;
         height: 840px;
-        background: url(../cgimages/sidenav-paper.gif) no-repeat;
+        /*background: url(../cgimages/sidenav-paper.gif) no-repeat;*/
         padding: 0;
         display: block;
     }
 
     div.sidenavtext {
-        width: 140px;
+        width: 85%;
+		margin: 30px 7.55%;
         padding: 0;
     }
 
@@ -582,13 +599,13 @@ ul.mobile-nav li.nav-item {
         margin: 0;
         padding: 0;
         font-family: Verdana, Geneva, sans-serif;
-        font-size: 11px;
+        font-size: 1em;
         color: #0f93ca;
-        line-height: 30px;
+        line-height: 1.5em;
     }
 
-    div.sidenavtext ul {
-        margin: 2em 2.5em;
+    div.sidenavtext ul li:first-of-type {
+		font-weight: bold;
     }
 
     div.sidenavtext a, div.sidenavtext a:visited {
@@ -619,7 +636,7 @@ ul.mobile-nav li.nav-item {
     div.mainContentText {
         display: inline-block;
         width: 90%;
-        padding: 5%;
+        padding: 1em 5%;
     }
 
     div.rightbannerad {
@@ -766,13 +783,23 @@ ul.mobile-nav li.nav-item {
         width: 1024px;
         background: #fff url(../cgimages/wet-background.gif) repeat-y fixed center;
     }
+	
+	body > a > img {
+		display: none;
+		border: 3px red solid;
+	}
 
     .webenglish #container {
         width: 1024px;
     }
 
     .webenglish #adheader {
-        width: 1024px;
+
+		display: block;
+		        width: 100%;
+        height: 110px;
+        padding: 0;
+        background: #9bc14e url(../cgimages/adheader_green.gif) repeat-x;
     }
 
     div.headerads {
@@ -790,12 +817,16 @@ ul.mobile-nav li.nav-item {
     }
 
     div.headertwitter {
+		position: relative;
+		left: 0;
         width: 116px;
         margin-left: 350px;
         margin-top: 1em;
     }
 
     div.headerfacebook {
+			position: relative;
+		left: 0;
         width: 116px;
         margin-top: 1em;
     }
