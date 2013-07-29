@@ -251,10 +251,12 @@
                                   </script>
   
                               <!-- Search Google -->
+                              <div class="footer-links">
                               | <a href="../about.html">About</a> | 
                               <a href="http://www.webenglishteacher.com/generator/data/sitemap.html">Site Map</a> | 
                               <a href="../privacypolicy.html">Privacy Policy</a> | 
                               <a href="../contact.html">Contact Us</a> | 
+                              </div>
                               <br />&copy;2000-2013 Web English Teacher, all rights reserved.   
                               <p>Web English Teacher presents the best of K-12 English Language 
                               Arts teaching resources: lesson plans, videos, e-texts, technology 
@@ -270,14 +272,14 @@
   
           <div id="rightcontent">
               <div class="rightbannerad">          
-                  <a href="http://edtechteacher.org/index.php/summer-workshops" target="_blank"><img src="../Templates/graphics/edtechteacher-summer13.jpg" width="300" height="250" border="1" /></a>
+                  <a href="http://edtechteacher.org/index.php/summer-workshops" target="_blank"><img src="../Templates/graphics/edtechteacher-summer13.jpg"/></a>
               </div>   
                   <!-- ValueClick Media 300x250 Medium Rectangle CODE for Web English Teacher -->
               <script type="text/javascript">var vclk_options = {sid:50922,media_id:6,media_type:8,version:"1.3"};</script>
               <script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=50922&media_id=6&media_type=8&version=1.3&exc=1"></script>
               <noscript>
                   <a href="http://media.fastclick.net/w/click.here?sid=50922&m=6&c=1" target="_blank">
-                      <img src="http://media.fastclick.net/w/get.media?sid=50922&m=6&tp=8&d=s&c=1&vcm_acv=1.3" width="300" height="250" border="1">
+                      <img src="http://media.fastclick.net/w/get.media?sid=50922&m=6&tp=8&d=s&c=1&vcm_acv=1.3"/>
                   </a>
               </noscript>
               <!-- ValueClick Media 300x250 Medium Rectangle CODE for Web English Teacher -->        
@@ -286,7 +288,7 @@
                   !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>                      
               <div class="literacysite">
                   <a href="http://www.theliteracysite.com/clickToGive/lit/home" target="_blank">
-                      <img src="../cgimages/literacysite.gif" width="280" border="0" height="131" align="Click to Give Free Books" />
+                      <img src="../cgimages/literacysite.gif" align="Click to Give Free Books" />
                   </a>
               </div>
           </div>
@@ -308,10 +310,13 @@
             </script>
             
             <!-- Search Google -->
+            <div class="footer-links">
             | <a href="../about.html">About</a> | <a
                 href="http://www.webenglishteacher.com/generator/data/sitemap.html">Site Map</a> | <a
                 href="../privacypolicy.html">Privacy Policy</a> | <a href="../contact.html">Contact Us</a>
-            | <br/>&copy;2000-2013 Web English Teacher, all rights reserved.
+            | 
+            </div>
+            <br/>&copy;2000-2013 Web English Teacher, all rights reserved.
             <p>Web English Teacher presents the best of K-12 English Language Arts teaching resources: lesson plans, videos,
                 e-texts, technology integration, criticism, and classroom activities. Permission to link is granted to any
                 educational site.</p>

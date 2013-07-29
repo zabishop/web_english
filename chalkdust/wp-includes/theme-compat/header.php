@@ -20,6 +20,8 @@ _deprecated_file( sprintf( __( 'Theme without %1$s' ), basename(__FILE__) ), '3.
 <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" type="text/css" media="screen" />
 <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
 
+<link rel="stylesheet" href="../css/responsive.css" type="text/css"/>
+
 <style type="text/css" media="screen">
 
 <?php

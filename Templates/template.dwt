@@ -238,11 +238,13 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
                             </script>
     
                             <!-- Search Google -->
+                            <div class="footer-links">
                             | <a href="../about.html">About</a> | <a
                                 href="http://www.webenglishteacher.com/generator/data/sitemap.html">Site Map</a> | <a
                                 href="../privacypolicy.html">Privacy Policy</a> | <a
                                 href="../contact.html">Contact Us</a> | <br/>&copy;2000-2013 Web English Teacher,
                             all rights reserved.
+                            </div>
                             <p>Web English Teacher presents the best of K-12 English Language Arts teaching resources:
                                 lesson plans, videos, e-texts, technology integration, criticism, and classroom activities.
                                 Permission to link is granted to any educational site.</p>
@@ -308,10 +310,13 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
             </script>
             
             <!-- Search Google -->
+            <div class="footer-links">
             | <a href="../about.html">About</a> | <a
                 href="http://www.webenglishteacher.com/generator/data/sitemap.html">Site Map</a> | <a
                 href="../privacypolicy.html">Privacy Policy</a> | <a href="../contact.html">Contact Us</a>
-            | <br/>&copy;2000-2013 Web English Teacher, all rights reserved.
+            | 
+            </div>
+            <br/>&copy;2000-2013 Web English Teacher, all rights reserved.
             <p>Web English Teacher presents the best of K-12 English Language Arts teaching resources: lesson plans, videos,
                 e-texts, technology integration, criticism, and classroom activities. Permission to link is granted to any
                 educational site.</p>
