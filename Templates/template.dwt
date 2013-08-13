@@ -60,6 +60,13 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 })();
 </script>
 <!--End Google Analytics script -->
+
+      <!-- begin code for social networking share utility belt -->
+     	 <script type="text/javascript">var switchTo5x=true;</script>
+		<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+		<script type="text/javascript">stLight.options({publisher: "ur-6ec32e4-616e-2d7d-bb28-11f0847387bb", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+              <!-- end code for social networking share utility belt -->
+
 </head>
 <body class="webenglish">
 <!-- Lightbox Code -->
@@ -215,17 +222,13 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
                             <li><a href="../writing.html">Writing</a></li>
                             <li><a href="../ya.html">Young Adult Literature</a></li>
                         </ul>
+                        
                     </div>
                 </div>
                 <div class="mainContent3">  
+                
                     <div class="mainContentText">
-                        <!-- TemplateBeginEditable name="Body" -->
-                        <h1>Title</h1>
-                        <p>text</p>
-                        <!-- TemplateEndEditable -->
-                        <hr/>
-                        <div class="footer">
-                            <!-- Search Google -->
+                                                <!-- Search Google -->
                             <div id="cse" style="width: 100%;">Loading</div>
                             <script src="http://www.google.com/jsapi" type="text/javascript"></script>
                             <script type="text/javascript">
@@ -238,6 +241,23 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
                             </script>
     
                             <!-- Search Google -->
+                        <!-- TemplateBeginEditable name="Body" -->
+                        <h1>Title</h1>
+                        <p>text</p>
+                        <!-- TemplateEndEditable -->
+                        <hr/>
+                                              <div class="utility-belt">
+                      	<!--<span class='st_sharethis_large' displayText='ShareThis'></span>-->
+						<span class='st_facebook_large' displayText='Facebook'></span>
+						<span class='st_twitter_large' displayText='Tweet'></span>
+						<span class='st_linkedin_large' displayText='LinkedIn'></span>
+                        <span class='st_pinterest_large' displayText='Pinterest'></span>
+						<span class='st_email_large' displayText='Email'></span>
+                        </div>
+                        <!-- end utility belt -->
+                        <hr />
+                        <div class="footer">
+
                             <div class="footer-links">
                             | <a href="../about.html">About</a> | <a
                                 href="http://www.webenglishteacher.com/generator/data/sitemap.html">Site Map</a> | <a
@@ -342,6 +362,8 @@ GA_googleFillSlot("EDLB-WebEnglishTeacher-Zone");
   <img src="http://b.scorecardresearch.com/p?c1=2&c2=6034644&cv=2.0&cj=1" />
 </noscript>
 <!-- End comScore Tag -->
-
+  <!-- This link styles the google search bar at the top of the page -->
+  <!-- It has to come last so that it overwrites the styles linked to by the JavaScript that links to an outside stylesheet -->
+      <link href="../CSS/google-search-styles.css" rel="stylesheet" type="text/css" />
 </body>
 </html>

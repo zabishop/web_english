@@ -16,6 +16,10 @@ body {
 	overflow: visible;
 }
 
+#vvohclightboxapi{
+	display: none;
+}
+
 .webenglish #container {
     position: relative;
     margin: 0 auto;
@@ -438,12 +442,26 @@ ul.mobile-nav li.nav-item {
     color: white;
 }
 
+#cse {
+	margin-top: 1em;
+}
+
+.utility-belt {
+	width: 100%;
+	text-align: center;
+}
+
 /* Tablet Layout */
 @media only screen and (min-width: 481px) {
 
     body {
         width: 100%;
     }
+	
+	#vvohclightboxapi{
+		display: inline;
+		!important
+	}
 
     .wetlogo {
         display: inline-block;
