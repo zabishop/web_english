@@ -59,18 +59,30 @@ body {
     padding: 0;
 }
 
-div.headertwitter {
-    display: inline-block;
-    width: 49%;
-    height: 25px;
-    text-align: right;
+.twitter-fb-link-wrapper {
+	width: 100%;
+	text-align:center;
+	margin-bottom: 1em;
 }
 
+.twitter-fb-link-wrapper p{
+	width: auto;
+	display: inline-block;
+	line-height: 32px;
+	margin: 0;
+	vertical-align:top;
+}
+
+div.headertwitter,
 div.headerfacebook {
     display: inline-block;
-    width: 49%;
-    height: 25px;
-    text-align: left;
+}
+
+.mobile-tablet-image {
+	display: inline-block;
+}
+.desktop-image {
+	display: none;
 }
 
 select.mobile-selector {
@@ -79,6 +91,7 @@ select.mobile-selector {
     width: 90%;
     height: 2em;
     font-size: 1.5em;
+	margin-bottom: .5em;
 }
 
 .webenglish #pagecontent {
@@ -443,7 +456,11 @@ ul.mobile-nav li.nav-item {
 }
 
 #cse {
-	margin-top: 1em;
+	/*margin-top: 1em;
+	width: 40%;
+	display: inline-block;
+	vertical-align: top;
+	float: right;*/
 }
 
 .utility-belt {
@@ -467,7 +484,7 @@ ul.mobile-nav li.nav-item {
         display: inline-block;
         margin: 0;
 		width: 30%;
-		min-width: 250px;
+		
     }
 
     select.mobile-selector {
@@ -510,22 +527,20 @@ ul.mobile-nav li.nav-item {
 
         display: none;
     }
+	
+	.twitter-fb-link-wrapper {
+		width: 30%;
+		text-align:center;
+		margin-bottom: 1em;
+		display: inline-block;
+		margin-left: 1em;
+	}
 
-    div.headertwitter {
-		position: relative;
-		left: 12%;
-		vertical-align: top;
-        margin-top: 3em;
-		width: 11%;
-    }
+	.twitter-fb-link-wrapper p{
+		width: 100%;
+		display: block;
+	}
 
-    div.headerfacebook {
-		position: relative;
-		left: 15.5%;
-        vertical-align: top;
-        margin-top: 3em;
-		width: 11%;
-    }
 
     .webenglish #leftcontent {
         float: left;
@@ -841,6 +856,9 @@ ul.mobile-nav li.nav-item {
         background: #9bc14e url(../cgimages/adheader_green.gif) repeat-x;
     }
 
+	.wetlogo{
+		width: auto;
+	}
     div.headerads {
         width: 728px;
     }
@@ -855,21 +873,20 @@ ul.mobile-nav li.nav-item {
         width: 1024px;
     }
 
-    div.headertwitter {
-		position: relative;
-		left: 0;
-        width: 116px;
-        margin-left: 350px;
-        margin-top: 1em;
-    }
+	.twitter-fb-link-wrapper {
+		display: inline-block;
+		vertical-align:top;
+		text-align:left;
+		width: auto;
+		margin-top: 1em;
+		margin-left: 3em;
+	}
 
-    div.headerfacebook {
-			position: relative;
-		left: 0;
-        width: 116px;
-        margin-top: 1em;
-    }
-
+	.twitter-fb-link-wrapper p{
+		width: auto;
+		display: inline-block;
+	}
+	
     div.headershare {
         width: 175px;
     }

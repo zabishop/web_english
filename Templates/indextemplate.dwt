@@ -109,18 +109,35 @@
           <a href="../index.html">
               <img class="wetlogo" src="../cgimages/WET_logo.gif" />
           </a>
-          
-          <div class="headertwitter">
-              <a href="http://twitter.com/webenglishteach" target="_blank">
-                  <img src="../cgimages/twitter3.gif"/>
-              </a>
-          </div>
-          
-          <div class="headerfacebook">
-          <a href="http://www.facebook.com/home.php?#/pages/Web-English-Teacher/201777963135" target="_blank">
-              <img src="../cgimages/facebook3.gif"/>
-          </a>
-          </div>
+        <div class="twitter-fb-link-wrapper">
+        <p>Follow us on:</p>
+            <div class="headerfacebook">
+                <a href="http://www.facebook.com/home.php?#/pages/Web-English-Teacher/201777963135" target="_blank">
+                    <img class="mobile-tablet-image" src="../cgimages/facebook_32.png"/>
+                    <!--<img class="desktop-image" src="../cgimages/facebook3.gif"/>-->
+                </a>
+            </div>
+            
+            <div class="headertwitter">
+                <a href="http://twitter.com/webenglishteach" target="_blank">
+                    <img class="mobile-tablet-image" src="../cgimages/twitter_32.png"/>
+                    <!--<img class="desktop-image"  src="../cgimages/twitter3.gif"/></a>-->
+            </div>
+        </div>
+    
+        
+        <!-- Search Google -->
+        <div id="cse">Loading</div>
+        <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+        <script type="text/javascript">
+            google.load('search', '1', {language: 'en', style: google.loader.themes.SHINY});
+            google.setOnLoadCallback(function () {
+                var customSearchControl = new google.search.CustomSearchControl('013281907437875976694:dx6wwyqiqgu');
+                customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+                customSearchControl.draw('cse');
+            }, true);
+        </script>
+        <!-- Search Google -->
           
           <ul class="mobile-nav">
               <li class="nav-item">
